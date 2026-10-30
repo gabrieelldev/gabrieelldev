@@ -1,3 +1,11 @@
+<details>
+<summary>🌐 Idioma: <b>Español</b> (pulsa para cambiar)</summary>
+<br>
+
+[🇬🇧 English](README.en.md) · [🇫🇷 Français](README.fr.md) · [🇵🇹 Português](README.pt.md) · [🇩🇪 Deutsch](README.de.md)
+
+</details>
+
 # Hola, soy Gabriel 👋
 
 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés en especializarme en **inteligencia artificial** y **ciberseguridad**.
@@ -49,6 +57,16 @@ Plataforma web de reservas de citas para pequeños negocios (peluquerías, barbe
 `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Stripe`
 
 *Desarrollada con ayuda de IA.*
+
+---
+
+## 🤖 Cómo uso la IA
+
+La inteligencia artificial es mi herramienta de trabajo diaria y el campo en el que me quiero especializar.
+
+- **Para crear aplicaciones:** he desarrollado *Mis tests de estudio* y *Agendado* con ayuda de Claude. Yo decido qué debe hacer cada una, las pruebo y voy pidiendo mejoras por fases.
+- **Para aprender a programar:** le pido que me explique el código y las decisiones técnicas, para entender lo que hay detrás y no solo copiarlo.
+- **Para estudiar:** convierto mis apuntes en tests de repaso con mi propia app.
 
 ---
 
