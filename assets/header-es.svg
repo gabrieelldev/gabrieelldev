@@ -29,35 +29,35 @@
   <text x="48" y="74" class="name">Gabriel Aguilar Leal</text>
   <text x="48" y="128" class="prompt">&gt;</text>
   <clipPath id="c0"><rect x="72" y="106" height="32" width="0">
-    <animate attributeName="width" values="0;280.1;280.1;0;0" keyTimes="0.0;0.0875;0.2083;0.2351;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="width" values="0;399.3;399.3;0;0" keyTimes="0.0;0.1131;0.2083;0.2351;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text x="72" y="128" class="type" clip-path="url(#c0)">estudio DAW en Málaga</text>
+  <text x="72" y="128" class="type" clip-path="url(#c0)">Desarrollo de Aplicaciones Web</text>
   <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
-    <animate attributeName="x" values="72;352.1;352.1;72;72" keyTimes="0.0;0.0875;0.2083;0.2351;1.0" dur="16.8s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="72;471.3;471.3;72;72" keyTimes="0.0;0.1131;0.2083;0.2351;1.0" dur="16.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0" keyTimes="0;0.25" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
   </rect></g>
   <clipPath id="c1"><rect x="72" y="106" height="32" width="0">
-    <animate attributeName="width" values="0;0;359.6;359.6;0;0" keyTimes="0.0;0.25;0.3625;0.4583;0.4851;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="width" values="0;0;227.1;227.1;0;0" keyTimes="0.0;0.25;0.3208;0.4583;0.4851;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text x="72" y="128" class="type" clip-path="url(#c1)">Java y HTML · Lua en camino</text>
+  <text x="72" y="128" class="type" clip-path="url(#c1)">Java · HTML · SQL</text>
   <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
-    <animate attributeName="x" values="72;72;431.6;431.6;72;72" keyTimes="0.0;0.25;0.3625;0.4583;0.4851;1.0" dur="16.8s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="72;72;299.1;299.1;72;72" keyTimes="0.0;0.25;0.3208;0.4583;0.4851;1.0" dur="16.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.25;0.5" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
   </rect></g>
   <clipPath id="c2"><rect x="72" y="106" height="32" width="0">
-    <animate attributeName="width" values="0;0;439.1;439.1;0;0" keyTimes="0.0;0.5;0.6131;0.7083;0.7351;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="width" values="0;0;200.7;200.7;0;0" keyTimes="0.0;0.5;0.5625;0.7083;0.7351;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text x="72" y="128" class="type" clip-path="url(#c2)">rumbo a la IA y la ciberseguridad</text>
+  <text x="72" y="128" class="type" clip-path="url(#c2)">aprendiendo Lua</text>
   <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
-    <animate attributeName="x" values="72;72;511.1;511.1;72;72" keyTimes="0.0;0.5;0.6131;0.7083;0.7351;1.0" dur="16.8s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="72;72;272.7;272.7;72;72" keyTimes="0.0;0.5;0.5625;0.7083;0.7351;1.0" dur="16.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;0.75" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
   </rect></g>
   <clipPath id="c3"><rect x="72" y="106" height="32" width="0">
-    <animate attributeName="width" values="0;0;412.6;412.6;0;0" keyTimes="0.0;0.75;0.8631;0.9583;0.9851;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="width" values="0;0;492.0;492.0;0;0" keyTimes="0.0;0.75;0.8631;0.9583;0.9851;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text x="72" y="128" class="type" clip-path="url(#c3)">buscando mis primeras prácticas</text>
+  <text x="72" y="128" class="type" clip-path="url(#c3)">orientado a la IA y la ciberseguridad</text>
   <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
-    <animate attributeName="x" values="72;72;484.6;484.6;72;72" keyTimes="0.0;0.75;0.8631;0.9583;0.9851;1.0" dur="16.8s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="72;72;564.0;564.0;72;72" keyTimes="0.0;0.75;0.8631;0.9583;0.9851;1.0" dur="16.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1" keyTimes="0;0.75" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
   </rect></g>
   <circle class="ring" cx="56" cy="172" r="6"/>

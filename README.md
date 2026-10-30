@@ -1,14 +1,30 @@
 <p align="center">
-  <img src="assets/header-es.svg" alt="Gabriel Aguilar Leal, estudiante de DAW en Málaga" width="100%" />
+  <img src="assets/header-es.svg" alt="Gabriel Aguilar Leal, estudiante de Desarrollo de Aplicaciones Web en Málaga" width="100%" />
 </p>
 
-Estoy en primero de **Desarrollo de Aplicaciones Web** en Medac Nova, en Málaga. Ahora mismo programo en **Java** y **HTML**, me estoy metiendo con **Lua** y hacia donde quiero ir es la **IA** y la **ciberseguridad**.
+Estudiante de primer curso del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web** en Davante Medac Nova (Málaga). Programo en **Java**, maqueto en **HTML**, diseño bases de datos relacionales con **SQL** y actualmente estoy aprendiendo **Lua**. Mi objetivo profesional es especializarme en **inteligencia artificial** y **ciberseguridad**.
 
-Estuve dos meses de mozo en Mosaic Factory, preparando envíos de muestras de mosaicos a clientes, y acabé echando una mano al equipo de informática con su base de datos: proponía mejoras y hacía de tester.
+Busco **prácticas (FCT)** como desarrollador en Málaga o en remoto.
 
-**Busco prácticas (FCT)** en Málaga o en remoto. Si en tu empresa hay hueco, [escríbeme](mailto:gagulea0105@gmail.com).
+## Formación
 
-## Con qué trabajo
+**Técnico Superior en Desarrollo de Aplicaciones Web** · Davante Medac Nova, Málaga · 2026–2028 (cursando 1.º)
+
+Competencias adquiridas hasta ahora en el ciclo:
+
+- Maquetación de páginas web con HTML5.
+- Programación en Java con estructuras de control.
+- Diseño de bases de datos relacionales y consultas SQL.
+- Instalación y configuración de sistemas operativos y máquinas virtuales.
+
+## Experiencia
+
+**Mosaic Factory** · Mozo de almacén · 2026 (2 meses)
+
+- Preparación y envío de muestras personalizadas de mosaicos a clientes, con seguimiento de los envíos y de las valoraciones recibidas.
+- Colaboración con el equipo de informática en el desarrollo de la base de datos de la empresa: propuesta de mejoras y pruebas de funcionamiento como tester.
+
+## Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/Lua-aprendiendo-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
@@ -21,29 +37,30 @@ Estuve dos meses de mozo en Mosaic Factory, preparando envíos de muestras de mo
 
 ### [Mis tests de estudio](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
 
-Subo los apuntes de cada asignatura (PDF, Word o fotos) y la app me prepara tests tipo examen. Va guardando lo que fallo en cada tema, así sé qué me toca repasar. La uso con Sistemas Informáticos, Bases de Datos o Entornos de Desarrollo.
+Aplicación web que genera tests de tipo examen a partir de apuntes en PDF, Word o imagen, organizados por asignatura y tema. Registra los aciertos y fallos de cada intento y muestra estadísticas por tema para identificar qué contenidos necesitan repaso. La utilizo para preparar los módulos del ciclo, como Sistemas Informáticos, Bases de Datos o Entornos de Desarrollo.
 
-<sub>Hecha con ayuda de IA</sub>
+<sub>Desarrollada con ayuda de IA</sub>
 
 ### [Agendado](https://agendado-kappa.vercel.app)
 
-Una web para que peluquerías, barberías o estudios de tatuaje lleven su agenda y sus clientes cojan cita online. El negocio monta sus horarios, servicios y profesionales, y el cliente solo ve los huecos que de verdad están libres. Por dentro, la base de datos impide que dos personas reserven la misma hora aunque le den al botón a la vez. Tiene pagos con Stripe y un QR que el negocio puede imprimir y pegar en el escaparate.
+Plataforma web de reserva de citas para pequeños negocios como peluquerías, barberías o estudios de tatuaje. Cada negocio configura sus horarios, servicios y profesionales, y sus clientes solo pueden reservar en huecos realmente disponibles. Una restricción en la base de datos garantiza que no existan dos reservas solapadas para el mismo profesional, incluso si se realizan de forma simultánea. Incluye tres roles con permisos diferenciados (cliente, negocio y administrador), suscripciones de pago con Stripe y un código QR imprimible para cada negocio.
 
 `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Stripe`
 
-<sub>Hecha con ayuda de IA</sub>
+<sub>Desarrollada con ayuda de IA</sub>
 
-## Cómo uso la IA
+## Uso de la inteligencia artificial
 
-Mis dos proyectos los he sacado adelante con Claude, y no lo escondo. Yo decido qué tiene que hacer cada cosa, lo pruebo y voy pidiendo cambios por partes. Cuando no entiendo algo del código, le pido que me lo explique antes de seguir. Como quiero especializarme en IA, la uso para todo: para programar, para entender lo que hago y para estudiar con mi propia app.
+He desarrollado ambos proyectos con la ayuda de Claude. Mi trabajo ha consistido en definir los requisitos de cada aplicación, organizar el desarrollo por fases, probar cada funcionalidad y pedir explicaciones del código y de las decisiones técnicas hasta comprenderlas. Es el área en la que quiero especializarme profesionalmente.
 
-## Por mi cuenta
+## Otros conocimientos
 
-Aprendí Linux por mi cuenta y monto servidores de Discord.
+- Linux y configuración de servidores de Discord, de forma autodidacta.
+- Idiomas: español (nativo) e inglés (avanzado).
 
 ## Música
 
-Lo que suena mientras programo, en directo desde mi Spotify:
+Lo que escucho mientras programo, conectado en tiempo real a mi cuenta de Spotify.
 
 <p align="center">
   <a href="https://gabrieelldev-spotify.vercel.app/api/now-playing?open">
@@ -52,9 +69,11 @@ Lo que suena mientras programo, en directo desde mi Spotify:
 </p>
 
 <p align="center">
-  <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=es" alt="Top artists" />
+  <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=es" alt="Artistas más escuchados" />
 </p>
 
 ## Contacto
 
-La forma más rápida de pillarme es por correo: **gagulea0105@gmail.com**. También estoy en [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/) y aquí tienes mi [CV en PDF](Gabriel_Aguilar_Leal_CV.pdf).
+- Correo: gagulea0105@gmail.com
+- LinkedIn: [linkedin.com/in/gabrielaguilarleal](https://www.linkedin.com/in/gabrielaguilarleal/)
+- Currículum: [descargar en PDF](Gabriel_Aguilar_Leal_CV.pdf)
