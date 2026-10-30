@@ -2,14 +2,6 @@
   <img src="assets/header-es.svg" alt="Gabriel Aguilar Leal, estudiante de DAW en Málaga" width="100%" />
 </p>
 
-<details>
-<summary>Idioma: <b>Español</b> (pulsa para cambiar)</summary>
-<br>
-
-[English](README.en.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md)
-
-</details>
-
 Estoy en primero de **Desarrollo de Aplicaciones Web** en Medac Nova, en Málaga. Ahora mismo programo en **Java** y **HTML**, me estoy metiendo con **Lua** y hacia donde quiero ir es la **IA** y la **ciberseguridad**.
 
 Estuve dos meses de mozo en Mosaic Factory, preparando envíos de muestras de mosaicos a clientes, y acabé echando una mano al equipo de informática con su base de datos: proponía mejoras y hacía de tester.
