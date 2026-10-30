@@ -84,10 +84,6 @@ Was ich beim Programmieren höre:
   <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=de" alt="Top artists" />
 </p>
 
-<p align="center">
-  <img src="https://gabrieelldev-spotify.vercel.app/api/top-tracks?lang=de" alt="Top tracks" />
-</p>
-
 ---
 
 ## 📫 Kontakt

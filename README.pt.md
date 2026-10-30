@@ -84,10 +84,6 @@ O que ouço enquanto programo:
   <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=pt" alt="Top artists" />
 </p>
 
-<p align="center">
-  <img src="https://gabrieelldev-spotify.vercel.app/api/top-tracks?lang=pt" alt="Top tracks" />
-</p>
-
 ---
 
 ## 📫 Contacto

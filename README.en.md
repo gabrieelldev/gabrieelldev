@@ -84,10 +84,6 @@ What I listen to while I code:
   <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=en" alt="Top artists" />
 </p>
 
-<p align="center">
-  <img src="https://gabrieelldev-spotify.vercel.app/api/top-tracks?lang=en" alt="Top tracks" />
-</p>
-
 ---
 
 ## 📫 Contact

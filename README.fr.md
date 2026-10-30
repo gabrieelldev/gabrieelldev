@@ -84,10 +84,6 @@ Ce que j'écoute en codant :
   <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=fr" alt="Top artists" />
 </p>
 
-<p align="center">
-  <img src="https://gabrieelldev-spotify.vercel.app/api/top-tracks?lang=fr" alt="Top tracks" />
-</p>
-
 ---
 
 ## 📫 Contact
