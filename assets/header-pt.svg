@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="210" viewBox="0 0 840 210" role="img" aria-label="Gabriel Aguilar Leal">
+  <style>
+    .bg { fill: #0d1117; }
+    .name { font: 700 42px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; letter-spacing: -0.5px; }
+    .prompt { font: 700 22px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #3fb950; }
+    .type { font: 500 22px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #c9d1d9; }
+    .cursor { fill: #3fb950; }
+    .status { font: 500 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .dot { fill: #3fb950; }
+    .ring { fill: none; stroke: #3fb950; stroke-width: 2; transform-origin: 56px 172px; animation: ping 1.8s ease-out infinite; }
+    .glow { animation: drift 9s ease-in-out infinite alternate; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes ping { from { transform: scale(.6); opacity: .9; } to { transform: scale(2.2); opacity: 0; } }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-120px); } }
+    @media (prefers-reduced-motion: reduce) { .ring, .glow, .blink { animation: none; } }
+  </style>
+  <defs>
+    <radialGradient id="g" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3fb950" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="840" height="210" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect class="bg" width="840" height="210"/>
+    <circle class="glow" cx="720" cy="40" r="190" fill="url(#g)"/>
+  </g>
+  <text x="48" y="74" class="name">Gabriel Aguilar Leal</text>
+  <text x="48" y="128" class="prompt">&gt;</text>
+  <clipPath id="c0"><rect x="72" y="106" height="32" width="0">
+    <animate attributeName="width" values="0;478.8;478.8;0;0" keyTimes="0.0;0.1131;0.2083;0.2351;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text x="72" y="128" class="type" clip-path="url(#c0)">estudo desenvolvimento web em Málaga</text>
+  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
+    <animate attributeName="x" values="72;550.8;550.8;72;72" keyTimes="0.0;0.1131;0.2083;0.2351;1.0" dur="16.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.25" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect></g>
+  <clipPath id="c1"><rect x="72" y="106" height="32" width="0">
+    <animate attributeName="width" values="0;0;372.8;372.8;0;0" keyTimes="0.0;0.25;0.3631;0.4583;0.4851;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text x="72" y="128" class="type" clip-path="url(#c1)">Java e HTML · a aprender Lua</text>
+  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
+    <animate attributeName="x" values="72;72;444.8;444.8;72;72" keyTimes="0.0;0.25;0.3631;0.4583;0.4851;1.0" dur="16.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.25;0.5" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect></g>
+  <clipPath id="c2"><rect x="72" y="106" height="32" width="0">
+    <animate attributeName="width" values="0;0;465.5;465.5;0;0" keyTimes="0.0;0.5;0.6131;0.7083;0.7351;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text x="72" y="128" class="type" clip-path="url(#c2)">a caminho da IA e da cibersegurança</text>
+  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
+    <animate attributeName="x" values="72;72;537.5;537.5;72;72" keyTimes="0.0;0.5;0.6131;0.7083;0.7351;1.0" dur="16.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;0.75" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect></g>
+  <clipPath id="c3"><rect x="72" y="106" height="32" width="0">
+    <animate attributeName="width" values="0;0;386.1;386.1;0;0" keyTimes="0.0;0.75;0.8631;0.9583;0.9851;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text x="72" y="128" class="type" clip-path="url(#c3)">à procura do primeiro estágio</text>
+  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
+    <animate attributeName="x" values="72;72;458.1;458.1;72;72" keyTimes="0.0;0.75;0.8631;0.9583;0.9851;1.0" dur="16.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.75" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect></g>
+  <circle class="ring" cx="56" cy="172" r="6"/>
+  <circle class="dot" cx="56" cy="172" r="5"/>
+  <text x="72" y="177" class="status">Disponível para estágio · Málaga ou remoto</text>
+</svg>

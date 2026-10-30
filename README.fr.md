@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header-fr.svg" alt="Gabriel Aguilar Leal, étudiant en développement web à Málaga" width="100%" />
+</p>
+
 <details>
 <summary>Langue : <b>Français</b> (cliquez pour changer)</summary>
 <br>
@@ -6,73 +10,48 @@
 
 </details>
 
-# Bonjour, je suis Gabriel
+Je suis en première année de **Développement d'Applications Web** à Medac Nova, à Málaga (Espagne). Pour l'instant je code en **Java** et en **HTML**, je me lance dans **Lua**, et là où je veux aller, c'est l'**IA** et la **cybersécurité**.
 
-Étudiant en **Développement d'Applications Web (DAW)** à Málaga (Espagne), je souhaite me spécialiser en **intelligence artificielle** et en **cybersécurité**.
+J'ai passé deux mois comme manutentionnaire chez Mosaic Factory, à préparer des envois d'échantillons de mosaïques pour les clients, et j'ai fini par donner un coup de main à l'équipe informatique sur leur base de données : je proposais des améliorations et je faisais les tests.
 
- **Je cherche un stage** de développeur. Disponible à Málaga ou à distance.
+**Je cherche un stage** à Málaga ou à distance. Si votre entreprise a une place, [écrivez-moi](mailto:gagulea0105@gmail.com).
 
----
+## Avec quoi je travaille
 
-## Technologies
-
-**Je maîtrise :** Java · HTML
-**J'apprends :** Lua
-
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
-
----
-
-## En ce moment
-
-- En première année du BTS espagnol de Développement d'Applications Web à Davante Medac Nova (Málaga).
-- J'apprends Lua.
-
-## Objectifs
-
-- Décrocher mon stage de développeur.
-- Publier et documenter mes projets en Java et HTML.
-- Orienter ma formation vers l'intelligence artificielle et la cybersécurité.
-
-## Expérience
-
-**Mosaic Factory** · Manutentionnaire (2 mois). J'ai aussi aidé l'équipe informatique à développer une base de données.
-
----
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/Lua-en_cours-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="VS Code" /> <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="NetBeans" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+</p>
 
 ## Projets
 
 ### [Mes tests d'étude](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
 
-Application web qui transforme mes notes de cours (PDF, Word et images) en tests de type examen, classés par matière et par thème. Elle propose des questions sur images, des statistiques de réussites et d'erreurs par thème et un mode d'édition protégé. Je l'utilise pour préparer mes examens. *(Application en espagnol.)*
+J'importe mes cours de chaque matière (PDF, Word ou photos) et l'appli me prépare des tests type examen. Elle garde en mémoire ce que je rate dans chaque thème, comme ça je sais quoi réviser. Je l'utilise pour les Systèmes informatiques, les Bases de données ou les Environnements de développement. *(Appli en espagnol.)*
 
-*Développée avec l'aide de l'IA.*
+<sub>Développée avec l'aide de l'IA</sub>
 
 ### [Agendado](https://agendado-kappa.vercel.app)
 
-Plateforme web de prise de rendez-vous pour les petites entreprises (salons de coiffure, barbiers, studios de tatouage…). L'entreprise gère son agenda, ses services et son équipe, et ses clients réservent en ligne uniquement sur des créneaux réellement libres. Elle comprend trois rôles (client, gérant et administrateur), des abonnements payants avec Stripe, une recherche d'entreprises par ville et par distance, et un QR code pour chaque entreprise. *(Site en espagnol.)*
+Un site pour que les salons de coiffure, barbiers ou studios de tatouage gèrent leur agenda et que leurs clients réservent en ligne. Le commerce configure ses horaires, ses services et son équipe, et le client ne voit que les créneaux vraiment libres. En coulisses, la base de données empêche deux personnes de réserver la même heure, même si elles cliquent en même temps. Il y a le paiement avec Stripe et un QR code que le commerce peut imprimer et coller en vitrine. *(Site en espagnol.)*
 
 `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Stripe`
 
-*Développée avec l'aide de l'IA.*
-
----
+<sub>Développée avec l'aide de l'IA</sub>
 
 ## Comment j'utilise l'IA
 
-L'intelligence artificielle est mon outil de travail au quotidien et le domaine dans lequel je veux me spécialiser.
+J'ai mené mes deux projets avec Claude, et je ne m'en cache pas. Je décide ce que chaque chose doit faire, je teste et je demande des changements petit à petit. Quand je ne comprends pas une partie du code, je lui demande de me l'expliquer avant de continuer. Comme je veux me spécialiser en IA, je l'utilise pour tout : coder, comprendre ce que je fais et réviser avec ma propre appli.
 
-- **Pour créer des applications :** j'ai développé *Mes tests d'étude* et *Agendado* avec l'aide de Claude. Je décide ce que chacune doit faire, je les teste et je demande des améliorations étape par étape.
-- **Pour apprendre à programmer :** je lui demande de m'expliquer le code et les choix techniques, pour comprendre ce qu'il y a derrière au lieu de simplement copier.
-- **Pour étudier :** je transforme mes notes en tests de révision avec ma propre application.
+## De mon côté
 
----
+J'ai appris Linux tout seul et je monte des serveurs Discord.
 
 ## Musique
 
-Ce que j'écoute en codant :
+Ce que j'écoute en codant, en direct depuis mon Spotify :
 
 <p align="center">
   <a href="https://gabrieelldev-spotify.vercel.app/api/now-playing?open">
@@ -84,10 +63,6 @@ Ce que j'écoute en codant :
   <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=fr" alt="Top artists" />
 </p>
 
----
-
 ## Contact
 
-- gagulea0105@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/)
-- [Télécharger le CV (PDF, en espagnol)](Gabriel_Aguilar_Leal_CV.pdf)
+Le plus rapide pour me joindre, c'est par e-mail : **gagulea0105@gmail.com**. Je suis aussi sur [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/) et voici mon [CV en PDF](Gabriel_Aguilar_Leal_CV.pdf) (en espagnol).
