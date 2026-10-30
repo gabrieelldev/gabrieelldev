@@ -42,6 +42,14 @@ Aplicación web que convierte mis apuntes (PDF, Word e imágenes) en tests tipo 
 
 *Desarrollada con ayuda de IA.*
 
+### 📅 Agendado
+
+Plataforma web de reservas de citas para pequeños negocios (peluquerías, barberías, estudios de tatuaje…). El negocio gestiona su agenda, servicios y profesionales, y sus clientes reservan online solo en huecos realmente libres. Tiene tres roles (cliente, dueño y administrador), suscripciones de pago con Stripe, búsqueda de negocios por ciudad y distancia, y un código QR para cada negocio.
+
+`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Stripe`
+
+*Desarrollada con ayuda de IA.*
+
 ---
 
 ## 📫 Contacto
