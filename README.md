@@ -6,15 +6,15 @@
 
 </details>
 
-# Hola, soy Gabriel 👋
+# Hola, soy Gabriel
 
 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés en especializarme en **inteligencia artificial** y **ciberseguridad**.
 
-🔎 **Busco prácticas (FCT)** como desarrollador. Disponible en Málaga o en remoto.
+**Busco prácticas (FCT)** como desarrollador. Disponible en Málaga o en remoto.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Domino:** Java · HTML
 **Aprendiendo:** Lua
@@ -25,32 +25,32 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés 
 
 ---
 
-## 📚 Ahora mismo
+## Ahora mismo
 
 - Cursando 1.º de DAW en Davante Medac Nova (Málaga).
 - Aprendiendo Lua.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Conseguir mis prácticas (FCT) como desarrollador.
 - Subir y documentar mis proyectos en Java y HTML.
 - Orientar mi formación hacia la inteligencia artificial y la ciberseguridad.
 
-## 💼 Experiencia
+## Experiencia
 
 **Mosaic Factory** · Mozo de almacén (2 meses). También colaboré con el equipo de informática en el desarrollo de una base de datos.
 
 ---
 
-## 📂 Proyectos
+## Proyectos
 
-### 📝 [Mis tests de estudio](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
+### [Mis tests de estudio](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
 
 Aplicación web que convierte mis apuntes (PDF, Word e imágenes) en tests tipo examen, organizados por asignaturas y temas. Incluye preguntas sobre imágenes, estadísticas de aciertos y fallos por tema y un modo de edición protegido. La uso para preparar los exámenes del ciclo.
 
 *Desarrollada con ayuda de IA.*
 
-### 📅 [Agendado](https://agendado-kappa.vercel.app)
+### [Agendado](https://agendado-kappa.vercel.app)
 
 Plataforma web de reservas de citas para pequeños negocios (peluquerías, barberías, estudios de tatuaje…). El negocio gestiona su agenda, servicios y profesionales, y sus clientes reservan online solo en huecos realmente libres. Tiene tres roles (cliente, dueño y administrador), suscripciones de pago con Stripe, búsqueda de negocios por ciudad y distancia, y un código QR para cada negocio.
 
@@ -60,7 +60,7 @@ Plataforma web de reservas de citas para pequeños negocios (peluquerías, barbe
 
 ---
 
-## 🤖 Cómo uso la IA
+## Cómo uso la IA
 
 La inteligencia artificial es mi herramienta de trabajo diaria y el campo en el que me quiero especializar.
 
@@ -70,7 +70,7 @@ La inteligencia artificial es mi herramienta de trabajo diaria y el campo en el 
 
 ---
 
-## 🎵 Música
+## Música
 
 Lo que suena mientras programo:
 
