@@ -21,7 +21,12 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés 
 
 - Cursando 1.º de DAW en Davante Medac Nova (Málaga).
 - Aprendiendo Lua.
-- Formándome para orientar mi carrera hacia la inteligencia artificial.
+
+## 🎯 Objetivos
+
+- Conseguir mis prácticas (FCT) como desarrollador.
+- Subir y documentar mis proyectos en Java y HTML.
+- Orientar mi formación hacia la inteligencia artificial.
 
 ## 💼 Experiencia
 
