@@ -38,4 +38,4 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés 
 ## 📫 Contacto
 
 - 📧 gagulea0105@gmail.com
-- 💼 LinkedIn: *(añade aquí tu enlace)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/)
