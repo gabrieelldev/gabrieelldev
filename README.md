@@ -6,6 +6,15 @@ Estudiante de primer curso del Ciclo Formativo de Grado Superior en **Desarrollo
 
 Busco **prácticas (FCT)** como desarrollador en Málaga o en remoto.
 
+<p>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=ED8B00" alt="Java" /> <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&labelColor=0d1117&logo=html5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&labelColor=0d1117&logo=mysql&logoColor=4479A1" alt="SQL" /> <img src="https://img.shields.io/badge/Lua-aprendiendo-238636?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white" alt="Lua" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&labelColor=0d1117&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&labelColor=0d1117" alt="VS Code" /> <img src="https://img.shields.io/badge/NetBeans-0d1117?style=flat-square&labelColor=0d1117&logo=apachenetbeanside&logoColor=1B6AC6" alt="NetBeans" /> <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&labelColor=0d1117&logo=linux&logoColor=FCC624" alt="Linux" /> <img src="https://img.shields.io/badge/VirtualBox-0d1117?style=flat-square&labelColor=0d1117&logo=virtualbox&logoColor=2F61B4" alt="VirtualBox" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## Formación
 
 **Técnico Superior en Desarrollo de Aplicaciones Web** · Davante Medac Nova, Málaga · 2026–2028 (cursando 1.º)
@@ -24,14 +33,7 @@ Competencias adquiridas hasta ahora en el ciclo:
 - Preparación y envío de muestras personalizadas de mosaicos a clientes, con seguimiento de los envíos y de las valoraciones recibidas.
 - Colaboración con el equipo de informática en el desarrollo de la base de datos de la empresa: propuesta de mejoras y pruebas de funcionamiento como tester.
 
-## Tecnologías
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/Lua-aprendiendo-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="VS Code" /> <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="NetBeans" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Proyectos
 
@@ -45,7 +47,9 @@ Aplicación web que genera tests de tipo examen a partir de apuntes en PDF, Word
 
 Plataforma web de reserva de citas para pequeños negocios como peluquerías, barberías o estudios de tatuaje. Cada negocio configura sus horarios, servicios y profesionales, y sus clientes solo pueden reservar en huecos realmente disponibles. Una restricción en la base de datos garantiza que no existan dos reservas solapadas para el mismo profesional, incluso si se realizan de forma simultánea. Incluye tres roles con permisos diferenciados (cliente, negocio y administrador), suscripciones de pago con Stripe y un código QR imprimible para cada negocio.
 
-`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Stripe`
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&labelColor=0d1117&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&labelColor=0d1117&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&labelColor=0d1117&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&labelColor=0d1117&logo=stripe&logoColor=635BFF" alt="Stripe" />
+</p>
 
 <sub>Desarrollada con ayuda de IA</sub>
 
@@ -57,6 +61,8 @@ He desarrollado ambos proyectos con la ayuda de Claude. Mi trabajo ha consistido
 
 - Linux y configuración de servidores de Discord, de forma autodidacta.
 - Idiomas: español (nativo) e inglés (avanzado).
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Música
 
@@ -74,6 +80,6 @@ Lo que escucho mientras programo, conectado en tiempo real a mi cuenta de Spotif
 
 ## Contacto
 
-- Correo: gagulea0105@gmail.com
-- LinkedIn: [linkedin.com/in/gabrielaguilarleal](https://www.linkedin.com/in/gabrielaguilarleal/)
-- Currículum: [descargar en PDF](Gabriel_Aguilar_Leal_CV.pdf)
+<p>
+  <a href="mailto:gagulea0105@gmail.com"><img src="https://img.shields.io/badge/gagulea0105@gmail.com-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335" alt="Correo" /></a> <a href="https://www.linkedin.com/in/gabrielaguilarleal/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a> <a href="Gabriel_Aguilar_Leal_CV.pdf"><img src="https://img.shields.io/badge/Currículum_PDF-0d1117?style=for-the-badge&labelColor=0d1117&logo=readdotcv&logoColor=3fb950" alt="Currículum en PDF" /></a>
+</p>

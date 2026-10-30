@@ -8,7 +8,7 @@ const BAR_CSS = `
 .cover { width: 64px; height: 64px; border-radius: 4px; flex: none; }
 .info { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
 .eq { display: flex; align-items: flex-end; gap: 3px; height: 30px; flex: none; }
-.eq i { display: block; width: 4px; height: 4px; border-radius: 2px; background: #1DB954; animation: bounce ease-in-out infinite alternate; }
+.eq i { display: block; width: 4px; height: 4px; border-radius: 2px; background: #3fb950; animation: bounce ease-in-out infinite alternate; }
 @keyframes bounce { from { height: 4px; } to { height: 30px; } }
 `;
 

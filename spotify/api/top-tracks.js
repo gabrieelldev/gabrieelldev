@@ -9,7 +9,7 @@ const RANGES = { corto: 'short_term', medio: 'medium_term', largo: 'long_term' }
 const CSS = `
 .list { display: flex; flex-direction: column; gap: 8px; }
 .track { display: flex; align-items: center; gap: 10px; min-width: 0; }
-.num { width: 18px; flex: none; text-align: right; font-size: 13px; font-weight: 700; color: #1DB954; }
+.num { width: 18px; flex: none; text-align: right; font-size: 13px; font-weight: 700; color: #3fb950; }
 .cover { width: 44px; height: 44px; border-radius: 4px; flex: none; }
 .info { flex: 1; min-width: 0; display: flex; flex-direction: column; }
 `;

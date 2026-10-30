@@ -10,7 +10,7 @@ const CSS = `
 .artist { display: flex; flex-direction: column; align-items: center; gap: 6px; text-align: center; min-width: 0; }
 .photo { width: 72px; height: 72px; border-radius: 50%; object-fit: cover; background: rgba(125,125,125,.2); }
 .artist .name { font-size: 13px; max-width: 100%; }
-.pos { font-size: 12px; color: #1DB954; font-weight: 700; }
+.pos { font-size: 12px; color: #3fb950; font-weight: 700; }
 `;
 
 module.exports = async (req, res) => {

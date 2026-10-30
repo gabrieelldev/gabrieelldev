@@ -20,20 +20,16 @@ function esc(value) {
   return String(value ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 }
 
-// Estilo común: se adapta al modo claro u oscuro de GitHub.
+// Estilo común: tarjeta oscura con el mismo aspecto que la cabecera del perfil.
 const BASE_CSS = `
 * { margin: 0; box-sizing: border-box; }
-.wrap { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: #1f2328; padding: 6px 8px; }
-.title { color: rgba(115,115,115,.9); font-size: 17px; font-weight: 600; text-align: center; margin-bottom: 8px; }
-.card { background: rgba(255,255,255,.7); border: 1px solid rgba(125,125,125,.3); border-radius: 8px; padding: 10px; }
+.wrap { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: #f0f6fc; padding: 4px; }
+.title { font: 600 14px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; color: #8b949e; margin: 0 0 8px 4px; }
+.title::before { content: "// "; color: #3fb950; }
+.card { background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 12px; }
 .name { font-size: 15px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.sub { font-size: 13px; color: #59636e; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.empty { text-align: center; font-size: 14px; color: #59636e; }
-@media (prefers-color-scheme: dark) {
-  .wrap { color: #e6edf3; }
-  .sub, .empty { color: #9198a1; }
-  .card { background: rgba(22,27,34,.75); }
-}
+.sub { font-size: 13px; color: #8b949e; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.empty { text-align: center; font-size: 14px; color: #8b949e; }
 `;
 
 function svg(width, height, body, css = '') {
