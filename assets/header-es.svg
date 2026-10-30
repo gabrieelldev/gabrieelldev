@@ -1,85 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="240" viewBox="0 0 840 240" role="img" aria-label="Gabriel Aguilar Leal">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="354" viewBox="0 0 840 354" role="img" aria-label="Gabriel Aguilar Leal">
   <style>
     .bg { fill: #0d1117; }
-    .name { font: 700 50px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; letter-spacing: -0.5px; }
-    .prompt { font: 700 25px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #3fb950; }
-    .type { font: 500 25px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #c9d1d9; }
-    .cursor { fill: #3fb950; }
+    .name { font: 700 48px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; letter-spacing: -0.5px; }
+    .code { font: 500 23px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .num { font: 500 23px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #484f58; }
     .kw { fill: #d2a8ff; } .ty { fill: #ff7b72; } .str { fill: #a5d6ff; } .pl { fill: #c9d1d9; }
+    .cursor { fill: #3fb950; }
     .status { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
     .dot { fill: #3fb950; }
-    .ring { fill: none; stroke: #3fb950; stroke-width: 2; transform-origin: 56px 200px; animation: ping 1.8s ease-out infinite; }
-    .glow { animation: drift 9s ease-in-out infinite alternate; }
-    @keyframes blink { 50% { opacity: 0; } }
+    .ring { fill: none; stroke: #3fb950; stroke-width: 2; transform-origin: 56px 314px; animation: ping 1.8s ease-out infinite; }
     .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
     @keyframes ping { from { transform: scale(.6); opacity: .9; } to { transform: scale(2.2); opacity: 0; } }
-    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-120px); } }
-    @media (prefers-reduced-motion: reduce) { .ring, .glow, .blink { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .ring, .blink { animation: none; } }
   </style>
   <defs>
     <radialGradient id="g" cx="0.5" cy="0.5" r="0.5">
       <stop offset="0" stop-color="#3fb950" stop-opacity="0.22"/>
       <stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
     </radialGradient>
-    <clipPath id="frame"><rect width="840" height="240" rx="14"/></clipPath>
+    <clipPath id="frame"><rect width="840" height="354" rx="14"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
-    <rect class="bg" width="840" height="240"/>
-    <circle class="glow" cx="730" cy="-40" r="160" fill="url(#g)"/>
+    <rect class="bg" width="840" height="354" rx="14"/>
+    <circle cx="740" cy="-70" r="160" fill="url(#g)"/>
   </g>
-  <text x="48" y="84" class="name">Gabriel Aguilar Leal</text>
+  <text x="48" y="80" class="name">Gabriel Aguilar Leal</text>
 
-  <g opacity="1">
-    <animate attributeName="opacity" values="1;0" keyTimes="0;0.2" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
-    <text x="48" y="146" class="type"><tspan class="ty">String</tspan><tspan class="pl"> ciclo = </tspan><tspan class="str">"Desarrollo de Aplicaciones Web"</tspan><tspan class="pl">;</tspan></text>
-    <rect class="bg" y="119" height="39" width="744.4" x="772.4">
-      <animate attributeName="x" values="48;772.4;772.4;48;48" keyTimes="0.0;0.1043;0.1696;0.1891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect>
-    <g class="blink"><rect y="124" width="13" height="27" class="cursor" x="772.4">
-      <animate attributeName="x" values="48;772.4;772.4;48;48" keyTimes="0.0;0.1043;0.1696;0.1891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect></g>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2;0.4" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
-    <text x="48" y="146" class="type"><tspan class="ty">String</tspan><tspan class="pl">[] stack = {</tspan><tspan class="str">"Java"</tspan><tspan class="pl">, </tspan><tspan class="str">"HTML"</tspan><tspan class="pl">, </tspan><tspan class="str">"SQL"</tspan><tspan class="pl">};</tspan></text>
-    <rect class="bg" y="119" height="39" width="639.0" x="48">
-      <animate attributeName="x" values="48;48;667.0;667.0;48;48" keyTimes="0.0;0.2;0.298;0.3696;0.3891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect>
-    <g class="blink"><rect y="124" width="13" height="27" class="cursor" x="48">
-      <animate attributeName="x" values="48;48;667.0;667.0;48;48" keyTimes="0.0;0.2;0.298;0.3696;0.3891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect></g>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4;0.6" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
-    <text x="48" y="146" class="type"><tspan class="pl">aprendiendo.</tspan><tspan class="kw">add</tspan><tspan class="pl">(</tspan><tspan class="str">"Lua"</tspan><tspan class="pl">);</tspan></text>
-    <rect class="bg" y="119" height="39" width="368.1" x="48">
-      <animate attributeName="x" values="48;48;396.1;396.1;48;48" keyTimes="0.0;0.4;0.455;0.5696;0.5891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect>
-    <g class="blink"><rect y="124" width="13" height="27" class="cursor" x="48">
-      <animate attributeName="x" values="48;48;396.1;396.1;48;48" keyTimes="0.0;0.4;0.455;0.5696;0.5891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect></g>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.6;0.8" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
-    <text x="48" y="146" class="type"><tspan class="ty">String</tspan><tspan class="pl"> objetivo = </tspan><tspan class="str">"IA y ciberseguridad"</tspan><tspan class="pl">;</tspan></text>
-    <rect class="bg" y="119" height="39" width="624.0" x="48">
-      <animate attributeName="x" values="48;48;652.0;652.0;48;48" keyTimes="0.0;0.6;0.6957;0.7696;0.7891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect>
-    <g class="blink"><rect y="124" width="13" height="27" class="cursor" x="48">
-      <animate attributeName="x" values="48;48;652.0;652.0;48;48" keyTimes="0.0;0.6;0.6957;0.7696;0.7891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect></g>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1" keyTimes="0;0.8" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
-    <text x="48" y="146" class="type"><tspan class="ty">System</tspan><tspan class="pl">.out.</tspan><tspan class="kw">println</tspan><tspan class="pl">(</tspan><tspan class="str">"Buscando prácticas"</tspan><tspan class="pl">);</tspan></text>
-    <rect class="bg" y="119" height="39" width="639.0" x="48">
-      <animate attributeName="x" values="48;48;667.0;667.0;48;48" keyTimes="0.0;0.8;0.898;0.9696;0.9891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect>
-    <g class="blink"><rect y="124" width="13" height="27" class="cursor" x="48">
-      <animate attributeName="x" values="48;48;667.0;667.0;48;48" keyTimes="0.0;0.8;0.898;0.9696;0.9891;1.0" dur="23.0s" repeatCount="indefinite"/>
-    </rect></g>
-  </g>
-  <circle class="ring" cx="56" cy="200" r="7"/>
-  <circle class="dot" cx="56" cy="200" r="6"/>
-  <text x="74" y="206" class="status">Disponible para prácticas · Málaga o remoto</text>
+  <text x="48" y="132" class="num">1</text>
+  <text x="88" y="132" class="code"><tspan class="ty">String</tspan><tspan class="pl"> ciclo = </tspan><tspan class="str">"Desarrollo de Aplicaciones Web"</tspan><tspan class="pl">;</tspan></text>
+  <rect class="bg" x="754.6" y="109" width="696.6" height="34">
+    <animate attributeName="x" values="88;88;754.6;754.6;88;88" keyTimes="0;0.0342;0.1709;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
+  </rect>
+  <text x="48" y="166" class="num">2</text>
+  <text x="88" y="166" class="code"><tspan class="ty">String</tspan><tspan class="pl">[] stack = {</tspan><tspan class="str">"Java"</tspan><tspan class="pl">, </tspan><tspan class="str">"HTML"</tspan><tspan class="pl">, </tspan><tspan class="str">"SQL"</tspan><tspan class="pl">};</tspan></text>
+  <rect class="bg" x="657.7" y="143" width="599.7" height="34">
+    <animate attributeName="x" values="88;88;657.7;657.7;88;88" keyTimes="0;0.1909;0.3077;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
+  </rect>
+  <text x="48" y="200" class="num">3</text>
+  <text x="88" y="200" class="code"><tspan class="pl">aprendiendo.</tspan><tspan class="kw">add</tspan><tspan class="pl">(</tspan><tspan class="str">"Lua"</tspan><tspan class="pl">);</tspan></text>
+  <rect class="bg" x="408.5" y="177" width="350.5" height="34">
+    <animate attributeName="x" values="88;88;408.5;408.5;88;88" keyTimes="0;0.3276;0.3932;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
+  </rect>
+  <text x="48" y="234" class="num">4</text>
+  <text x="88" y="234" class="code"><tspan class="ty">String</tspan><tspan class="pl"> objetivo = </tspan><tspan class="str">"IA y ciberseguridad"</tspan><tspan class="pl">;</tspan></text>
+  <rect class="bg" x="643.8" y="211" width="585.8" height="34">
+    <animate attributeName="x" values="88;88;643.8;643.8;88;88" keyTimes="0;0.4131;0.5271;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
+  </rect>
+  <text x="48" y="268" class="num">5</text>
+  <text x="88" y="268" class="code"><tspan class="ty">System</tspan><tspan class="pl">.out.</tspan><tspan class="kw">println</tspan><tspan class="pl">(</tspan><tspan class="str">"Buscando prácticas"</tspan><tspan class="pl">);</tspan></text>
+  <rect class="bg" x="657.7" y="245" width="599.7" height="34">
+    <animate attributeName="x" values="88;88;657.7;657.7;88;88" keyTimes="0;0.5470;0.6638;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
+  </rect>
+
+  <g class="blink"><rect class="cursor" x="659.7" y="248" width="12" height="25">
+    <animate attributeName="x" values="88;88;754.6;88;657.7;88;408.5;88;643.8;88;657.7;657.7;88;88" keyTimes="0.0000;0.0342;0.1709;0.1909;0.3077;0.3276;0.3932;0.4131;0.5271;0.5470;0.6638;0.9487;0.9487;1.0000" dur="17.55s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="112;112;112;146;146;180;180;214;214;248;248;248;112;112" keyTimes="0.0000;0.0342;0.1709;0.1909;0.3077;0.3276;0.3932;0.4131;0.5271;0.5470;0.6638;0.9487;0.9487;1.0000" dur="17.55s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect></g>
+  <circle class="ring" cx="56" cy="314" r="7"/>
+  <circle class="dot" cx="56" cy="314" r="6"/>
+  <text x="74" y="320" class="status">Disponible para prácticas · Málaga o remoto</text>
 </svg>
