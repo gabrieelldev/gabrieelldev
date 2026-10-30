@@ -70,6 +70,26 @@ A inteligência artificial é a minha ferramenta de trabalho diária e a área e
 
 ---
 
+## 🎵 Música
+
+O que ouço enquanto programo:
+
+<p align="center">
+  <a href="https://gabrieelldev-spotify.vercel.app/api/now-playing?open">
+    <img src="https://gabrieelldev-spotify.vercel.app/api/now-playing?lang=pt" alt="Spotify" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=pt" alt="Top artists" />
+</p>
+
+<p align="center">
+  <img src="https://gabrieelldev-spotify.vercel.app/api/top-tracks?lang=pt" alt="Top tracks" />
+</p>
+
+---
+
 ## 📫 Contacto
 
 - 📧 gagulea0105@gmail.com

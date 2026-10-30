@@ -70,6 +70,26 @@ Künstliche Intelligenz ist mein tägliches Arbeitswerkzeug und das Gebiet, auf 
 
 ---
 
+## 🎵 Musik
+
+Was ich beim Programmieren höre:
+
+<p align="center">
+  <a href="https://gabrieelldev-spotify.vercel.app/api/now-playing?open">
+    <img src="https://gabrieelldev-spotify.vercel.app/api/now-playing?lang=de" alt="Spotify" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=de" alt="Top artists" />
+</p>
+
+<p align="center">
+  <img src="https://gabrieelldev-spotify.vercel.app/api/top-tracks?lang=de" alt="Top tracks" />
+</p>
+
+---
+
 ## 📫 Kontakt
 
 - 📧 gagulea0105@gmail.com

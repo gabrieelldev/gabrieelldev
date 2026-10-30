@@ -70,6 +70,26 @@ AI is my everyday working tool and the field I want to specialise in.
 
 ---
 
+## 🎵 Music
+
+What I listen to while I code:
+
+<p align="center">
+  <a href="https://gabrieelldev-spotify.vercel.app/api/now-playing?open">
+    <img src="https://gabrieelldev-spotify.vercel.app/api/now-playing?lang=en" alt="Spotify" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://gabrieelldev-spotify.vercel.app/api/top-artists?lang=en" alt="Top artists" />
+</p>
+
+<p align="center">
+  <img src="https://gabrieelldev-spotify.vercel.app/api/top-tracks?lang=en" alt="Top tracks" />
+</p>
+
+---
+
 ## 📫 Contact
 
 - 📧 gagulea0105@gmail.com
