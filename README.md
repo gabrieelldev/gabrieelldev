@@ -1,6 +1,6 @@
 # Hola, soy Gabriel 👋
 
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés en especializarme en **inteligencia artificial**.
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés en especializarme en **inteligencia artificial** y **ciberseguridad**.
 
 🔎 **Busco prácticas (FCT)** como desarrollador. Disponible en Málaga o en remoto.
 
@@ -26,7 +26,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés 
 
 - Conseguir mis prácticas (FCT) como desarrollador.
 - Subir y documentar mis proyectos en Java y HTML.
-- Orientar mi formación hacia la inteligencia artificial.
+- Orientar mi formación hacia la inteligencia artificial y la ciberseguridad.
 
 ## 💼 Experiencia
 
