@@ -36,7 +36,11 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés 
 
 ## 📂 Proyectos
 
-*Próximamente.*
+### 📝 [Mis tests de estudio](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
+
+Aplicación web que convierte mis apuntes (PDF, Word e imágenes) en tests tipo examen, organizados por asignaturas y temas. Incluye preguntas sobre imágenes, estadísticas de aciertos y fallos por tema y un modo de edición protegido. La uso para preparar los exámenes del ciclo.
+
+*Desarrollada con ayuda de IA.*
 
 ---
 
@@ -44,3 +48,4 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, con interés 
 
 - 📧 gagulea0105@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/)
+- 📄 [Descargar CV (PDF)](Gabriel_Aguilar_Leal_CV.pdf)
