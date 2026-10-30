@@ -3,11 +3,11 @@
 
 // Textos en los idiomas del perfil (?lang=en, fr, pt, de; por defecto español).
 const TEXTS = {
-  es: { now: '🎧 Escuchando ahora', last: '🎧 Lo último que escuché', artists: '🎤 Mis 5 artistas más escuchados', tracks: '❤️ Mis canciones favoritas', nothing: 'Ahora mismo no suena nada', error: 'No se ha podido conectar con Spotify' },
-  en: { now: '🎧 Listening now', last: '🎧 Last played', artists: '🎤 My top 5 artists', tracks: '❤️ My favourite songs', nothing: 'Nothing playing right now', error: 'Could not connect to Spotify' },
-  fr: { now: '🎧 En écoute', last: '🎧 Dernière écoute', artists: '🎤 Mes 5 artistes les plus écoutés', tracks: '❤️ Mes chansons préférées', nothing: "Rien en cours d'écoute", error: 'Impossible de se connecter à Spotify' },
-  pt: { now: '🎧 A ouvir agora', last: '🎧 A última que ouvi', artists: '🎤 Os meus 5 artistas mais ouvidos', tracks: '❤️ As minhas músicas favoritas', nothing: 'Nada a tocar neste momento', error: 'Não foi possível ligar ao Spotify' },
-  de: { now: '🎧 Höre gerade', last: '🎧 Zuletzt gehört', artists: '🎤 Meine Top-5-Künstler', tracks: '❤️ Meine Lieblingssongs', nothing: 'Gerade läuft nichts', error: 'Keine Verbindung zu Spotify' },
+  es: { now: 'Escuchando ahora', last: 'Lo último que escuché', artists: 'Mis 5 artistas más escuchados', tracks: 'Mis canciones favoritas', nothing: 'Ahora mismo no suena nada', error: 'No se ha podido conectar con Spotify' },
+  en: { now: 'Listening now', last: 'Last played', artists: 'My top 5 artists', tracks: 'My favourite songs', nothing: 'Nothing playing right now', error: 'Could not connect to Spotify' },
+  fr: { now: 'En écoute', last: 'Dernière écoute', artists: 'Mes 5 artistes les plus écoutés', tracks: 'Mes chansons préférées', nothing: "Rien en cours d'écoute", error: 'Impossible de se connecter à Spotify' },
+  pt: { now: 'A ouvir agora', last: 'A última que ouvi', artists: 'Os meus 5 artistas mais ouvidos', tracks: 'As minhas músicas favoritas', nothing: 'Nada a tocar neste momento', error: 'Não foi possível ligar ao Spotify' },
+  de: { now: 'Höre gerade', last: 'Zuletzt gehört', artists: 'Meine Top-5-Künstler', tracks: 'Meine Lieblingssongs', nothing: 'Gerade läuft nichts', error: 'Keine Verbindung zu Spotify' },
 };
 
 function texts(req) {

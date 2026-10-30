@@ -1,20 +1,20 @@
 <details>
-<summary>🌐 Language: <b>English</b> (click to change)</summary>
+<summary>Language: <b>English</b> (click to change)</summary>
 <br>
 
-[🇪🇸 Español](README.md) · [🇫🇷 Français](README.fr.md) · [🇵🇹 Português](README.pt.md) · [🇩🇪 Deutsch](README.de.md)
+[Español](README.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md)
 
 </details>
 
-# Hi, I'm Gabriel 👋
+# Hi, I'm Gabriel
 
 **Web Application Development (DAW)** student in Málaga, Spain, aiming to specialise in **artificial intelligence** and **cybersecurity**.
 
-🔎 **Looking for an internship** as a developer. Available in Málaga or remotely.
+ **Looking for an internship** as a developer. Available in Málaga or remotely.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 **Proficient in:** Java · HTML
 **Learning:** Lua
@@ -25,32 +25,32 @@
 
 ---
 
-## 📚 Right now
+## Right now
 
 - In my first year of the Web Application Development vocational degree at Davante Medac Nova (Málaga).
 - Learning Lua.
 
-## 🎯 Goals
+## Goals
 
 - Land my internship as a developer.
 - Upload and document my Java and HTML projects.
 - Steer my training towards artificial intelligence and cybersecurity.
 
-## 💼 Experience
+## Experience
 
 **Mosaic Factory** · Warehouse worker (2 months). I also helped the IT team develop a database.
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 📝 [My study tests](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
+### [My study tests](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
 
 Web app that turns my notes (PDF, Word and images) into exam-style tests, organised by subject and topic. It includes image-based questions, right/wrong statistics per topic and a protected editing mode. I use it to prepare for my exams. *(The app is in Spanish.)*
 
 *Built with the help of AI.*
 
-### 📅 [Agendado](https://agendado-kappa.vercel.app)
+### [Agendado](https://agendado-kappa.vercel.app)
 
 Online appointment booking platform for small businesses (hair salons, barbershops, tattoo studios…). Businesses manage their schedule, services and staff, and customers book online only in truly free slots. It has three roles (customer, owner and administrator), paid subscriptions with Stripe, business search by city and distance, and a QR code for each business. *(The site is in Spanish.)*
 
@@ -60,7 +60,7 @@ Online appointment booking platform for small businesses (hair salons, barbersho
 
 ---
 
-## 🤖 How I use AI
+## How I use AI
 
 AI is my everyday working tool and the field I want to specialise in.
 
@@ -70,7 +70,7 @@ AI is my everyday working tool and the field I want to specialise in.
 
 ---
 
-## 🎵 Music
+## Music
 
 What I listen to while I code:
 
@@ -86,8 +86,8 @@ What I listen to while I code:
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 gagulea0105@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/)
-- 📄 [Download CV (PDF, in Spanish)](Gabriel_Aguilar_Leal_CV.pdf)
+- gagulea0105@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/)
+- [Download CV (PDF, in Spanish)](Gabriel_Aguilar_Leal_CV.pdf)

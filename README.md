@@ -1,8 +1,8 @@
 <details>
-<summary>🌐 Idioma: <b>Español</b> (pulsa para cambiar)</summary>
+<summary>Idioma: <b>Español</b> (pulsa para cambiar)</summary>
 <br>
 
-[🇬🇧 English](README.en.md) · [🇫🇷 Français](README.fr.md) · [🇵🇹 Português](README.pt.md) · [🇩🇪 Deutsch](README.de.md)
+[English](README.en.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md)
 
 </details>
 
@@ -86,8 +86,8 @@ Lo que suena mientras programo:
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- 📧 gagulea0105@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/)
-- 📄 [Descargar CV (PDF)](Gabriel_Aguilar_Leal_CV.pdf)
+- gagulea0105@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/)
+- [Descargar CV (PDF)](Gabriel_Aguilar_Leal_CV.pdf)

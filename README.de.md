@@ -1,20 +1,20 @@
 <details>
-<summary>🌐 Sprache: <b>Deutsch</b> (zum Wechseln klicken)</summary>
+<summary>Sprache: <b>Deutsch</b> (zum Wechseln klicken)</summary>
 <br>
 
-[🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md) · [🇫🇷 Français](README.fr.md) · [🇵🇹 Português](README.pt.md)
+[Español](README.md) · [English](README.en.md) · [Français](README.fr.md) · [Português](README.pt.md)
 
 </details>
 
-# Hallo, ich bin Gabriel 👋
+# Hallo, ich bin Gabriel
 
 Student der **Webanwendungsentwicklung (DAW)** in Málaga (Spanien) mit dem Ziel, mich auf **künstliche Intelligenz** und **Cybersicherheit** zu spezialisieren.
 
-🔎 **Ich suche ein Praktikum** als Entwickler. Verfügbar in Málaga oder remote.
+ **Ich suche ein Praktikum** als Entwickler. Verfügbar in Málaga oder remote.
 
 ---
 
-## 🛠️ Technologien
+## Technologien
 
 **Beherrsche ich:** Java · HTML
 **Lerne ich gerade:** Lua
@@ -25,32 +25,32 @@ Student der **Webanwendungsentwicklung (DAW)** in Málaga (Spanien) mit dem Ziel
 
 ---
 
-## 📚 Aktuell
+## Aktuell
 
 - Im 1. Jahr der Berufsausbildung Webanwendungsentwicklung an der Davante Medac Nova (Málaga).
 - Ich lerne Lua.
 
-## 🎯 Ziele
+## Ziele
 
 - Ein Praktikum als Entwickler finden.
 - Meine Java- und HTML-Projekte hochladen und dokumentieren.
 - Meine Ausbildung auf künstliche Intelligenz und Cybersicherheit ausrichten.
 
-## 💼 Berufserfahrung
+## Berufserfahrung
 
 **Mosaic Factory** · Lagerhelfer (2 Monate). Außerdem habe ich das IT-Team bei der Entwicklung einer Datenbank unterstützt.
 
 ---
 
-## 📂 Projekte
+## Projekte
 
-### 📝 [Meine Lerntests](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
+### [Meine Lerntests](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
 
 Web-App, die meine Unterlagen (PDF, Word und Bilder) in prüfungsähnliche Tests umwandelt, sortiert nach Fach und Thema. Sie bietet Fragen zu Bildern, Statistiken zu richtigen und falschen Antworten pro Thema und einen geschützten Bearbeitungsmodus. Ich nutze sie zur Prüfungsvorbereitung. *(Die App ist auf Spanisch.)*
 
 *Mit Hilfe von KI entwickelt.*
 
-### 📅 [Agendado](https://agendado-kappa.vercel.app)
+### [Agendado](https://agendado-kappa.vercel.app)
 
 Online-Plattform für Terminbuchungen kleiner Betriebe (Friseursalons, Barbershops, Tattoostudios…). Der Betrieb verwaltet Kalender, Leistungen und Mitarbeiter, und die Kunden buchen online nur wirklich freie Termine. Es gibt drei Rollen (Kunde, Inhaber und Administrator), kostenpflichtige Abos mit Stripe, eine Suche nach Stadt und Entfernung sowie einen QR-Code für jeden Betrieb. *(Die Seite ist auf Spanisch.)*
 
@@ -60,7 +60,7 @@ Online-Plattform für Terminbuchungen kleiner Betriebe (Friseursalons, Barbersho
 
 ---
 
-## 🤖 Wie ich KI nutze
+## Wie ich KI nutze
 
 Künstliche Intelligenz ist mein tägliches Arbeitswerkzeug und das Gebiet, auf das ich mich spezialisieren möchte.
 
@@ -70,7 +70,7 @@ Künstliche Intelligenz ist mein tägliches Arbeitswerkzeug und das Gebiet, auf 
 
 ---
 
-## 🎵 Musik
+## Musik
 
 Was ich beim Programmieren höre:
 
@@ -86,8 +86,8 @@ Was ich beim Programmieren höre:
 
 ---
 
-## 📫 Kontakt
+## Kontakt
 
-- 📧 gagulea0105@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/)
-- 📄 [Lebenslauf herunterladen (PDF, auf Spanisch)](Gabriel_Aguilar_Leal_CV.pdf)
+- gagulea0105@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gabrielaguilarleal/)
+- [Lebenslauf herunterladen (PDF, auf Spanisch)](Gabriel_Aguilar_Leal_CV.pdf)
