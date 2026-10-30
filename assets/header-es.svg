@@ -5,6 +5,7 @@
     .prompt { font: 700 22px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #3fb950; }
     .type { font: 500 22px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #c9d1d9; }
     .cursor { fill: #3fb950; }
+    .kw { fill: #d2a8ff; } .ty { fill: #ff7b72; } .str { fill: #a5d6ff; } .pl { fill: #c9d1d9; }
     .status { font: 500 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
     .dot { fill: #3fb950; }
     .ring { fill: none; stroke: #3fb950; stroke-width: 2; transform-origin: 56px 172px; animation: ping 1.8s ease-out infinite; }
@@ -27,38 +28,46 @@
     <circle class="glow" cx="720" cy="40" r="190" fill="url(#g)"/>
   </g>
   <text x="48" y="74" class="name">Gabriel Aguilar Leal</text>
-  <text x="48" y="128" class="prompt">&gt;</text>
-  <clipPath id="c0"><rect x="72" y="106" height="32" width="0">
-    <animate attributeName="width" values="0;399.3;399.3;0;0" keyTimes="0.0;0.1131;0.2083;0.2351;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+
+  <clipPath id="c0"><rect x="48" y="106" height="32" width="0">
+    <animate attributeName="width" values="0;637.7;637.7;0;0" keyTimes="0.0;0.1043;0.1696;0.1891;1.0" dur="23.0s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text x="72" y="128" class="type" clip-path="url(#c0)">Desarrollo de Aplicaciones Web</text>
-  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
-    <animate attributeName="x" values="72;471.3;471.3;72;72" keyTimes="0.0;0.1131;0.2083;0.2351;1.0" dur="16.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0" keyTimes="0;0.25" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
+  <text x="48" y="128" class="type" clip-path="url(#c0)"><tspan class="ty">String</tspan><tspan class="pl"> ciclo = </tspan><tspan class="str">"Desarrollo de Aplicaciones Web"</tspan><tspan class="pl">;</tspan></text>
+  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="48">
+    <animate attributeName="x" values="48;685.7;685.7;48;48" keyTimes="0.0;0.1043;0.1696;0.1891;1.0" dur="23.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.2" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
   </rect></g>
-  <clipPath id="c1"><rect x="72" y="106" height="32" width="0">
-    <animate attributeName="width" values="0;0;227.1;227.1;0;0" keyTimes="0.0;0.25;0.3208;0.4583;0.4851;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+  <clipPath id="c1"><rect x="48" y="106" height="32" width="0">
+    <animate attributeName="width" values="0;0;545.0;545.0;0;0" keyTimes="0.0;0.2;0.298;0.3696;0.3891;1.0" dur="23.0s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text x="72" y="128" class="type" clip-path="url(#c1)">Java · HTML · SQL</text>
-  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
-    <animate attributeName="x" values="72;72;299.1;299.1;72;72" keyTimes="0.0;0.25;0.3208;0.4583;0.4851;1.0" dur="16.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.25;0.5" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
+  <text x="48" y="128" class="type" clip-path="url(#c1)"><tspan class="ty">String</tspan><tspan class="pl">[] stack = {</tspan><tspan class="str">"Java"</tspan><tspan class="pl">, </tspan><tspan class="str">"HTML"</tspan><tspan class="pl">, </tspan><tspan class="str">"SQL"</tspan><tspan class="pl">};</tspan></text>
+  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="48">
+    <animate attributeName="x" values="48;48;593.0;593.0;48;48" keyTimes="0.0;0.2;0.298;0.3696;0.3891;1.0" dur="23.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2;0.4" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
   </rect></g>
-  <clipPath id="c2"><rect x="72" y="106" height="32" width="0">
-    <animate attributeName="width" values="0;0;200.7;200.7;0;0" keyTimes="0.0;0.5;0.5625;0.7083;0.7351;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+  <clipPath id="c2"><rect x="48" y="106" height="32" width="0">
+    <animate attributeName="width" values="0;0;306.6;306.6;0;0" keyTimes="0.0;0.4;0.455;0.5696;0.5891;1.0" dur="23.0s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text x="72" y="128" class="type" clip-path="url(#c2)">aprendiendo Lua</text>
-  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
-    <animate attributeName="x" values="72;72;272.7;272.7;72;72" keyTimes="0.0;0.5;0.5625;0.7083;0.7351;1.0" dur="16.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;0.75" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
+  <text x="48" y="128" class="type" clip-path="url(#c2)"><tspan class="pl">aprendiendo.</tspan><tspan class="kw">add</tspan><tspan class="pl">(</tspan><tspan class="str">"Lua"</tspan><tspan class="pl">);</tspan></text>
+  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="48">
+    <animate attributeName="x" values="48;48;354.6;354.6;48;48" keyTimes="0.0;0.4;0.455;0.5696;0.5891;1.0" dur="23.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4;0.6" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
   </rect></g>
-  <clipPath id="c3"><rect x="72" y="106" height="32" width="0">
-    <animate attributeName="width" values="0;0;492.0;492.0;0;0" keyTimes="0.0;0.75;0.8631;0.9583;0.9851;1.0" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+  <clipPath id="c3"><rect x="48" y="106" height="32" width="0">
+    <animate attributeName="width" values="0;0;531.8;531.8;0;0" keyTimes="0.0;0.6;0.6957;0.7696;0.7891;1.0" dur="23.0s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text x="72" y="128" class="type" clip-path="url(#c3)">orientado a la IA y la ciberseguridad</text>
-  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="72">
-    <animate attributeName="x" values="72;72;564.0;564.0;72;72" keyTimes="0.0;0.75;0.8631;0.9583;0.9851;1.0" dur="16.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1" keyTimes="0;0.75" dur="16.8s" repeatCount="indefinite" calcMode="discrete"/>
+  <text x="48" y="128" class="type" clip-path="url(#c3)"><tspan class="ty">String</tspan><tspan class="pl"> objetivo = </tspan><tspan class="str">"IA y ciberseguridad"</tspan><tspan class="pl">;</tspan></text>
+  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="48">
+    <animate attributeName="x" values="48;48;579.8;579.8;48;48" keyTimes="0.0;0.6;0.6957;0.7696;0.7891;1.0" dur="23.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.6;0.8" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect></g>
+  <clipPath id="c4"><rect x="48" y="106" height="32" width="0">
+    <animate attributeName="width" values="0;0;545.0;545.0;0;0" keyTimes="0.0;0.8;0.898;0.9696;0.9891;1.0" dur="23.0s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text x="48" y="128" class="type" clip-path="url(#c4)"><tspan class="ty">System</tspan><tspan class="pl">.out.</tspan><tspan class="kw">println</tspan><tspan class="pl">(</tspan><tspan class="str">"Buscando prácticas"</tspan><tspan class="pl">);</tspan></text>
+  <g class="blink"><rect y="109" width="11" height="24" class="cursor" x="48">
+    <animate attributeName="x" values="48;48;593.0;593.0;48;48" keyTimes="0.0;0.8;0.898;0.9696;0.9891;1.0" dur="23.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.8" dur="23.0s" repeatCount="indefinite" calcMode="discrete"/>
   </rect></g>
   <circle class="ring" cx="56" cy="172" r="6"/>
   <circle class="dot" cx="56" cy="172" r="5"/>
