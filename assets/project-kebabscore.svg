@@ -6,14 +6,10 @@
     .neon { font: 400 17px Impact, "Anton", "Arial Narrow", sans-serif; fill: #FF7A1F; letter-spacing: 1.5px; animation: flick 4s infinite; }
     .rn { font: 600 9px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e8ddd3; }
     .rs { font: 700 11px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #FF7A1F; }
-    .row { opacity: 0; animation: in .5s ease-out forwards; }
-    .bar { transform-box: fill-box; transform: scaleX(0); animation: grow 1s ease-out forwards; }
-    .phone { animation: float 5s ease-in-out infinite; }
+            .phone { animation: float 5s ease-in-out infinite; }
     @keyframes flick { 0%, 18%, 22%, 25%, 53%, 57%, 100% { opacity: 1; filter: drop-shadow(0 0 5px #FF7A1F); } 20%, 24%, 55% { opacity: .25; filter: none; } }
-    @keyframes in { from { opacity: 0; transform: translateX(10px); } to { opacity: 1; transform: none; } }
-    @keyframes grow { to { transform: scaleX(1); } }
     @keyframes float { 50% { transform: translateY(-5px); } }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .row { opacity: 1; } .bar { transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
   <defs><linearGradient id="kb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1410"/><stop offset="1" stop-color="#120F0D"/></linearGradient></defs>
   <rect x=".5" y=".5" width="409" height="299" rx="14" fill="url(#kb)" stroke="#3a2a1e"/>
@@ -31,25 +27,25 @@
     <text x="318" y="92" class="neon" text-anchor="middle">KEBABSCORE</text>
     <text x="318" y="112" class="rn" text-anchor="middle" style="fill:#9c8b7e">El kebab de las 3 AM</text>
     <text x="262" y="138" class="rn" style="fill:#FF7A1F">CARTA LUMINOSA</text>
-    <g class="row" style="animation-delay:0.60s">
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5455;1" dur="1.10s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="10 0;10 0;0 0" keyTimes="0;0.5455;1" dur="1.10s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
       <rect x="262" y="150" width="112" height="30" rx="6" fill="#1f1914"/>
       <text x="270" y="163" class="rn">1. Dürüm mixto</text>
       <rect x="270" y="169" width="72" height="4" rx="2" fill="#2e2620"/>
-      <rect class="bar" style="animation-delay:0.90s" x="270" y="169" width="67.7" height="4" rx="2" fill="#FF7A1F"/>
+      <rect x="270" y="169" width="67.7" height="4" rx="2" fill="#FF7A1F"><animate attributeName="width" values="0;0;67.7" keyTimes="0;0.4737;1" dur="1.90s" fill="freeze"/></rect>
       <text x="366" y="172" class="rs" text-anchor="end">9,4</text>
     </g>
-    <g class="row" style="animation-delay:0.85s">
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6296;1" dur="1.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="10 0;10 0;0 0" keyTimes="0;0.6296;1" dur="1.35s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
       <rect x="262" y="186" width="112" height="30" rx="6" fill="#1f1914"/>
       <text x="270" y="199" class="rn">2. Kebab de pollo</text>
       <rect x="270" y="205" width="72" height="4" rx="2" fill="#2e2620"/>
-      <rect class="bar" style="animation-delay:1.15s" x="270" y="205" width="64.1" height="4" rx="2" fill="#FF7A1F"/>
+      <rect x="270" y="205" width="64.1" height="4" rx="2" fill="#FF7A1F"><animate attributeName="width" values="0;0;64.1" keyTimes="0;0.5349;1" dur="2.15s" fill="freeze"/></rect>
       <text x="366" y="208" class="rs" text-anchor="end">8,9</text>
     </g>
-    <g class="row" style="animation-delay:1.10s">
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6875;1" dur="1.60s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="10 0;10 0;0 0" keyTimes="0;0.6875;1" dur="1.60s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .3 1"/>
       <rect x="262" y="222" width="112" height="30" rx="6" fill="#1f1914"/>
       <text x="270" y="235" class="rn">3. Falafel casero</text>
       <rect x="270" y="241" width="72" height="4" rx="2" fill="#2e2620"/>
-      <rect class="bar" style="animation-delay:1.40s" x="270" y="241" width="59.0" height="4" rx="2" fill="#FF7A1F"/>
+      <rect x="270" y="241" width="59.0" height="4" rx="2" fill="#FF7A1F"><animate attributeName="width" values="0;0;59.0" keyTimes="0;0.5833;1" dur="2.40s" fill="freeze"/></rect>
       <text x="366" y="244" class="rs" text-anchor="end">8,2</text>
     </g>
   </g>

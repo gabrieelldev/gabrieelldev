@@ -5,13 +5,7 @@
     .p { font: 700 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
     .dn { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
     .ok { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #3fb950; }
-    .slot { animation: slot 6s ease-in-out infinite; }
-    .cursor { animation: cur 6s ease-in-out infinite; }
-    .toast { opacity: 0; animation: toast 6s ease-in-out infinite; }
-    @keyframes slot { 0%, 30% { fill: transparent; stroke: #30363d; } 38%, 85% { fill: #3fb950; stroke: #3fb950; } 95%, 100% { fill: transparent; stroke: #30363d; } }
-    @keyframes cur { 0% { transform: translate(80px, 70px); opacity: 0; } 10% { opacity: 1; } 30% { transform: translate(0, 0); } 34% { transform: translate(0, 0) scale(.85); } 38%, 80% { transform: translate(0, 0); opacity: 1; } 90%, 100% { transform: translate(0, 0); opacity: 0; } }
-    @keyframes toast { 0%, 40% { opacity: 0; transform: translateY(6px); } 46%, 85% { opacity: 1; transform: none; } 95%, 100% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .toast { opacity: 1; } .slot { fill: #3fb950; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
   <rect x=".5" y=".5" width="409" height="299" rx="14" fill="#0d1117" stroke="#30363d"/>
   <text x="24" y="52" class="t">Agendado</text>
@@ -56,13 +50,17 @@
   <rect x="364" y="156" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
   <rect x="364" y="186" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
   <rect x="364" y="216" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect class="slot" x="304" y="156" width="26" height="26" rx="5" stroke-width="1"/>
-  <g class="toast">
+  <rect x="304" y="156" width="26" height="26" rx="5" fill="#3fb950" fill-opacity="0" stroke="#30363d">
+    <animate attributeName="fill-opacity" values="0;0;1;1;0;0" keyTimes="0;.30;.38;.85;.95;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke" values="#30363d;#30363d;#3fb950;#3fb950;#30363d;#30363d" keyTimes="0;.30;.38;.85;.95;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.40;.46;.85;.95;1" dur="6s" repeatCount="indefinite"/>
     <rect x="244" y="252" width="138" height="22" rx="11" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".6"/>
     <path d="M254 263 l4 4 l7 -8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="271" y="267" class="ok">Cita reservada</text>
   </g>
-  <g transform="translate(322 172)"><g class="cursor">
+  <g transform="translate(322 172)"><g opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.10;.80;.90;1" dur="6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="80 70;0 0;0 0" keyTimes="0;.30;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".3 0 .2 1;0 0 1 1"/>
     <path d="M0 0 L0 15 L4 11 L7 18 L10 17 L7 10 L12 10 Z" fill="#f0f6fc" stroke="#0d1117" stroke-width="1"/>
   </g></g>
 </svg>
