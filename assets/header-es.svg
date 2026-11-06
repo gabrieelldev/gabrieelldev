@@ -1,63 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="354" viewBox="0 0 840 354" role="img" aria-label="Gabriel Aguilar Leal">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="Gabriel Aguilar Leal. Estudiante de DAW en Málaga, futuro especialista en IA y ciberseguridad, buscando prácticas FCT">
   <style>
-    .bg { fill: #0d1117; }
-    .name { font: 700 48px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; letter-spacing: -0.5px; }
-    .code { font: 500 23px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
-    .num { font: 500 23px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #484f58; }
-    .kw { fill: #d2a8ff; } .ty { fill: #ff7b72; } .str { fill: #a5d6ff; } .pl { fill: #c9d1d9; }
-    .cursor { fill: #3fb950; }
-    .status { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
-    .dot { fill: #3fb950; }
-    .ring { fill: none; stroke: #3fb950; stroke-width: 2; transform-origin: 56px 314px; animation: ping 1.8s ease-out infinite; }
+    .name { font: 700 50px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; letter-spacing: -0.5px; }
+    .prompt { font: 600 24px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #3fb950; }
+    .sub { font: 500 24px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #c9d1d9; }
+    .status { font: 500 17px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
     .blink { animation: blink 1s steps(1) infinite; }
+    .ring { fill: none; stroke: #3fb950; stroke-width: 2; transform-origin: 58px 188px; animation: ping 1.8s ease-out infinite; }
+    .glow { animation: glow 6s ease-in-out infinite; }
     @keyframes blink { 50% { opacity: 0; } }
     @keyframes ping { from { transform: scale(.6); opacity: .9; } to { transform: scale(2.2); opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .ring, .blink { animation: none; } }
+    @keyframes glow { 50% { opacity: .45; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
   <defs>
-    <radialGradient id="g" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#3fb950" stop-opacity="0.22"/>
+    <radialGradient id="g" gradientUnits="userSpaceOnUse" cx="760" cy="-30" r="230">
+      <stop offset="0" stop-color="#3fb950" stop-opacity="0.24">
+        <animate attributeName="stop-opacity" values=".24;.1;.24" dur="6s" repeatCount="indefinite"/>
+      </stop>
       <stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
     </radialGradient>
-    <clipPath id="frame"><rect width="840" height="354" rx="14"/></clipPath>
+    <clipPath id="frame"><rect width="840" height="230" rx="14"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
-    <rect class="bg" width="840" height="354" rx="14"/>
-    <circle cx="740" cy="-70" r="160" fill="url(#g)"/>
+    <rect width="840" height="230" rx="14" fill="#0d1117"/>
+    <rect width="840" height="230" fill="url(#g)"/>
   </g>
-  <text x="48" y="80" class="name">Gabriel Aguilar Leal</text>
-
-  <text x="48" y="132" class="num">1</text>
-  <text x="88" y="132" class="code"><tspan class="ty">String</tspan><tspan class="pl"> ciclo = </tspan><tspan class="str">"Desarrollo de Aplicaciones Web"</tspan><tspan class="pl">;</tspan></text>
-  <rect class="bg" x="754.6" y="109" width="696.6" height="34">
-    <animate attributeName="x" values="88;88;754.6;754.6;88;88" keyTimes="0;0.0342;0.1709;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
-  </rect>
-  <text x="48" y="166" class="num">2</text>
-  <text x="88" y="166" class="code"><tspan class="ty">String</tspan><tspan class="pl">[] stack = {</tspan><tspan class="str">"Java"</tspan><tspan class="pl">, </tspan><tspan class="str">"HTML"</tspan><tspan class="pl">, </tspan><tspan class="str">"SQL"</tspan><tspan class="pl">};</tspan></text>
-  <rect class="bg" x="657.7" y="143" width="599.7" height="34">
-    <animate attributeName="x" values="88;88;657.7;657.7;88;88" keyTimes="0;0.1909;0.3077;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
-  </rect>
-  <text x="48" y="200" class="num">3</text>
-  <text x="88" y="200" class="code"><tspan class="pl">aprendiendo.</tspan><tspan class="kw">add</tspan><tspan class="pl">(</tspan><tspan class="str">"Lua"</tspan><tspan class="pl">);</tspan></text>
-  <rect class="bg" x="408.5" y="177" width="350.5" height="34">
-    <animate attributeName="x" values="88;88;408.5;408.5;88;88" keyTimes="0;0.3276;0.3932;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
-  </rect>
-  <text x="48" y="234" class="num">4</text>
-  <text x="88" y="234" class="code"><tspan class="ty">String</tspan><tspan class="pl"> objetivo = </tspan><tspan class="str">"IA y ciberseguridad"</tspan><tspan class="pl">;</tspan></text>
-  <rect class="bg" x="643.8" y="211" width="585.8" height="34">
-    <animate attributeName="x" values="88;88;643.8;643.8;88;88" keyTimes="0;0.4131;0.5271;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
-  </rect>
-  <text x="48" y="268" class="num">5</text>
-  <text x="88" y="268" class="code"><tspan class="ty">System</tspan><tspan class="pl">.out.</tspan><tspan class="kw">println</tspan><tspan class="pl">(</tspan><tspan class="str">"Buscando prácticas"</tspan><tspan class="pl">);</tspan></text>
-  <rect class="bg" x="657.7" y="245" width="599.7" height="34">
-    <animate attributeName="x" values="88;88;657.7;657.7;88;88" keyTimes="0;0.5470;0.6638;0.9487;0.9487;1" dur="17.55s" repeatCount="indefinite"/>
-  </rect>
-
-  <g class="blink"><rect class="cursor" x="659.7" y="248" width="12" height="25">
-    <animate attributeName="x" values="88;88;754.6;88;657.7;88;408.5;88;643.8;88;657.7;657.7;88;88" keyTimes="0.0000;0.0342;0.1709;0.1909;0.3077;0.3276;0.3932;0.4131;0.5271;0.5470;0.6638;0.9487;0.9487;1.0000" dur="17.55s" repeatCount="indefinite"/>
-    <animate attributeName="y" values="112;112;112;146;146;180;180;214;214;248;248;248;112;112" keyTimes="0.0000;0.0342;0.1709;0.1909;0.3077;0.3276;0.3932;0.4131;0.5271;0.5470;0.6638;0.9487;0.9487;1.0000" dur="17.55s" repeatCount="indefinite" calcMode="discrete"/>
+  <text x="48" y="84" class="name">Gabriel Aguilar Leal</text>
+  <text x="20" y="138" class="prompt">&gt;</text>
+  <clipPath id="c0"><rect x="50" y="112" width="0" height="36">
+    <animate attributeName="width" values="0.0;0.0;388.8;388.8;0.0;0.0" keyTimes="0.0000;0.0179;0.1308;0.2622;0.3025;1.0000" dur="16.75s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="50" y="138" class="sub" textLength="388.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">Estudiante de DAW en Málaga</text>
+  <clipPath id="c1"><rect x="50" y="112" width="0" height="36">
+    <animate attributeName="width" values="0.0;0.0;604.8;604.8;0.0;0.0" keyTimes="0.0000;0.3264;0.5019;0.6333;0.6960;1.0000" dur="16.75s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="50" y="138" class="sub" textLength="604.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">Futuro especialista en IA y ciberseguridad</text>
+  <clipPath id="c2"><rect x="50" y="112" width="0" height="36">
+    <animate attributeName="width" values="0.0;0.0;316.8;316.8;0.0;0.0" keyTimes="0.0000;0.7199;0.8119;0.9433;0.9761;1.0000" dur="16.75s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="50" y="138" class="sub" textLength="316.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">Buscando prácticas FCT</text>
+  <g class="blink"><rect x="50" y="117" width="3" height="27" fill="#3fb950">
+    <animate attributeName="x" values="50.0;50.0;438.8;438.8;50.0;50.0;654.8;654.8;50.0;50.0;366.8;366.8;50.0;50.0" keyTimes="0.0000;0.0179;0.1308;0.2622;0.3025;0.3264;0.5019;0.6333;0.6960;0.7199;0.8119;0.9433;0.9761;1.0000" dur="16.75s" repeatCount="indefinite"/>
   </rect></g>
-  <circle class="ring" cx="56" cy="314" r="7"/>
-  <circle class="dot" cx="56" cy="314" r="6"/>
-  <text x="74" y="320" class="status">Disponible para prácticas · Málaga o remoto</text>
+  <circle class="ring" cx="58" cy="188" r="7"/>
+  <circle cx="58" cy="188" r="6" fill="#3fb950"/>
+  <text x="76" y="194" class="status">Disponible para prácticas · Málaga o remoto</text>
 </svg>

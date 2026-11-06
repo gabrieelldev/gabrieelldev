@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="140" viewBox="0 0 840 140" role="img" aria-label="Gracias por visitar mi perfil">
+  <style>
+    .w1 { animation: mv 9s linear infinite; }
+    .w2 { animation: mv 14s linear infinite reverse; }
+    .w3 { animation: mv 6s linear infinite; }
+    .msg { font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; animation: fade 4s ease-in-out infinite; }
+    @keyframes mv { from { transform: translateX(0); } to { transform: translateX(-280px); } }
+    @keyframes fade { 50% { opacity: .55; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <linearGradient id="wg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3fb950" stop-opacity=".45"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></linearGradient>
+    <clipPath id="cl"><rect width="840" height="140" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#cl)">
+    <path class="w2" d="M0 72 q70.0 -14 140.0 0 t140.0 0 q70.0 -14 140.0 0 t140.0 0 q70.0 -14 140.0 0 t140.0 0 q70.0 -14 140.0 0 t140.0 0 q70.0 -14 140.0 0 t140.0 0 q70.0 -14 140.0 0 t140.0 0 q70.0 -14 140.0 0 t140.0 0 V140 H0 Z" fill="url(#wg)" opacity=".35"/>
+    <path class="w1" d="M0 84 q70.0 -18 140.0 0 t140.0 0 q70.0 -18 140.0 0 t140.0 0 q70.0 -18 140.0 0 t140.0 0 q70.0 -18 140.0 0 t140.0 0 q70.0 -18 140.0 0 t140.0 0 q70.0 -18 140.0 0 t140.0 0 q70.0 -18 140.0 0 t140.0 0 V140 H0 Z" fill="url(#wg)" opacity=".55"/>
+    <path class="w3" d="M0 100 q70.0 -10 140.0 0 t140.0 0 q70.0 -10 140.0 0 t140.0 0 q70.0 -10 140.0 0 t140.0 0 q70.0 -10 140.0 0 t140.0 0 q70.0 -10 140.0 0 t140.0 0 q70.0 -10 140.0 0 t140.0 0 q70.0 -10 140.0 0 t140.0 0 V140 H0 Z" fill="url(#wg)"/>
+  </g>
+  <text x="420.0" y="36" class="msg" text-anchor="middle">Gracias por visitar mi perfil</text>
+</svg>

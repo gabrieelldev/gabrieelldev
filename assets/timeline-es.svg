@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" role="img" aria-label="Trayectoria: 2026, Mosaic Factory, mozo de almacén y apoyo en la base de datos. 2026 a 2028, DAW en Davante Medac Nova, cursando 1.º. Próximo paso: prácticas FCT en Málaga o en remoto.">
+  <style>
+    .yr { font: 700 13px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #3fb950; }
+    .t { font: 700 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .d { font: 400 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .line { stroke-dasharray: 560; stroke-dashoffset: 560; animation: draw 1.6s .2s ease-in-out forwards; }
+    .fut { stroke-dasharray: 6 6; animation: dash 1.2s linear infinite; }
+    .node { opacity: 0; animation: pop .5s ease-out forwards; }
+    .ring { fill: none; stroke: #3fb950; stroke-width: 2; animation: ping 1.8s ease-out infinite; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes dash { to { stroke-dashoffset: -12; } }
+    @keyframes pop { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes ping { from { transform: scale(.8); opacity: .9; } to { transform: scale(2.2); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .node { opacity: 1; } .line { stroke-dashoffset: 0; } }
+  </style>
+  <line x1="40" y1="62" x2="800" y2="62" stroke="#30363d" stroke-width="3" stroke-linecap="round"/>
+  <line class="line" x1="140" y1="62" x2="700" y2="62" stroke="#3fb950" stroke-width="3" stroke-linecap="round"/>
+  <line class="fut" x1="709" y1="62" x2="800" y2="62" stroke="#3fb950" stroke-opacity=".6" stroke-width="3"/>
+  <g class="node" style="animation-delay:0.3s">
+    <circle cx="140" cy="62" r="9" fill="#3fb950"/><circle cx="140" cy="62" r="4" fill="#0d1117"/>
+    <text x="140" y="38" class="yr" text-anchor="middle">2026</text>
+    <text x="140" y="102" class="t" text-anchor="middle">Mosaic Factory</text>
+    <text x="140" y="124" class="d" text-anchor="middle">Mozo de almacén y apoyo</text>
+    <text x="140" y="142" class="d" text-anchor="middle">en la base de datos</text>
+  </g>
+  <g class="node" style="animation-delay:1.0s">
+    <circle cx="420" cy="62" r="9" fill="#3fb950"/><circle cx="420" cy="62" r="4" fill="#0d1117"/>
+    <text x="420" y="38" class="yr" text-anchor="middle">2026 – 2028</text>
+    <text x="420" y="102" class="t" text-anchor="middle">DAW · Davante Medac Nova</text>
+    <text x="420" y="124" class="d" text-anchor="middle">Técnico Superior en Desarrollo</text>
+    <text x="420" y="142" class="d" text-anchor="middle">de Aplicaciones Web (cursando 1.º)</text>
+  </g>
+  <g class="node" style="animation-delay:1.7s">
+    <circle class="ring" style="transform-origin:700px 62px" cx="700" cy="62" r="9"/><circle cx="700" cy="62" r="9" fill="#0d1117" stroke="#3fb950" stroke-width="2.5" stroke-dasharray="4 3"/>
+    <text x="700" y="38" class="yr" text-anchor="middle">Próximo paso</text>
+    <text x="700" y="102" class="t" text-anchor="middle">Prácticas FCT</text>
+    <text x="700" y="124" class="d" text-anchor="middle">Como desarrollador en Málaga</text>
+    <text x="700" y="142" class="d" text-anchor="middle">o en remoto</text>
+  </g>
+</svg>

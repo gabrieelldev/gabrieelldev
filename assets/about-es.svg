@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="381" viewBox="0 0 840 381" role="img" aria-label="Sobre mí: estudiante de 1.º de DAW en Davante Medac Nova, Málaga. Objetivo: IA y ciberseguridad. Ahora: KebabScore y un roguelike en Roblox. Aprendiendo Lua. Buscando prácticas FCT.">
+  <style>
+    .code { font: 500 18px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .num { font: 500 18px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #484f58; }
+    .tab { font: 500 13px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #c9d1d9; }
+    .ts { font: 700 9px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #fff; }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="0.5" y="0.5" width="839" height="380" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 46 V12.5 a12 12 0 0 1 12 -12 H827.5 a12 12 0 0 1 12 12 V46 Z" fill="#161b22"/>
+  <line x1="0.5" y1="46" x2="839.5" y2="46" stroke="#30363d"/>
+  <circle cx="24" cy="23" r="6" fill="#ff5f57"/><circle cx="44" cy="23" r="6" fill="#febc2e"/><circle cx="64" cy="23" r="6" fill="#28c840"/>
+  <rect x="92" y="10" width="150" height="36" rx="6" fill="#0d1117"/>
+  <rect x="92" y="44" width="150" height="3" fill="#0d1117"/>
+  <rect x="104" y="18" width="18" height="12" rx="2" fill="#3178c6"/>
+  <text x="107" y="28" class="ts">TS</text>
+  <text x="130" y="29" class="tab">sobre-mi.ts</text>
+  <clipPath id="code"><rect x="1" y="47" width="838" height="333"/></clipPath>
+  <g clip-path="url(#code)">
+  <text x="62" y="86" class="num" text-anchor="end">1</text>
+  <text x="84" y="86" class="code" textLength="151.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#8b949e">// sobre-mi.ts</tspan></text>
+  <rect x="84" y="66" width="171.2" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;237.2;237.2;84.0" keyTimes="0.0000;0.0274;0.0544;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  <text x="62" y="115" class="num" text-anchor="end">2</text>
+  <text x="84" y="115" class="code" textLength="183.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#ff7b72">const </tspan><tspan fill="#d2a8ff">gabriel</tspan><tspan fill="#c9d1d9"> = {</tspan></text>
+  <rect x="84" y="95" width="203.6" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;269.6;269.6;84.0" keyTimes="0.0000;0.0653;0.0980;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  <text x="62" y="144" class="num" text-anchor="end">3</text>
+  <text x="84" y="144" class="code" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">estudios</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;DAW · 1.º curso&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+  <rect x="84" y="124" width="344.0" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;410.0;410.0;84.0" keyTimes="0.0000;0.1090;0.1666;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  <text x="62" y="173" class="num" text-anchor="end">4</text>
+  <text x="84" y="173" class="code" textLength="334.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">centro</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Davante Medac Nova&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+  <rect x="84" y="153" width="354.8" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;420.8;420.8;84.0" keyTimes="0.0000;0.1776;0.2372;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  <text x="62" y="202" class="num" text-anchor="end">5</text>
+  <text x="84" y="202" class="code" textLength="237.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">ubicacion</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Málaga&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+  <rect x="84" y="182" width="257.6" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;323.6;323.6;84.0" keyTimes="0.0000;0.2481;0.2904;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  <text x="62" y="231" class="num" text-anchor="end">6</text>
+  <text x="84" y="231" class="code" textLength="399.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">objetivo</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">&quot;IA&quot;</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">&quot;Ciberseguridad&quot;</tspan><tspan fill="#c9d1d9">],</tspan></text>
+  <rect x="84" y="211" width="419.6" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;485.6;485.6;84.0" keyTimes="0.0000;0.3014;0.3725;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  <text x="62" y="260" class="num" text-anchor="end">7</text>
+  <text x="84" y="260" class="code" textLength="507.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">ahora</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">&quot;KebabScore&quot;</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">&quot;Roguelike en Roblox&quot;</tspan><tspan fill="#c9d1d9">],</tspan></text>
+  <rect x="84" y="240" width="527.6" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;593.6;593.6;84.0" keyTimes="0.0000;0.3835;0.4738;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  <text x="62" y="289" class="num" text-anchor="end">8</text>
+  <text x="84" y="289" class="code" textLength="226.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">aprendiendo</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Lua&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+  <rect x="84" y="269" width="246.8" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;312.8;312.8;84.0" keyTimes="0.0000;0.4848;0.5251;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  <text x="62" y="318" class="num" text-anchor="end">9</text>
+  <text x="84" y="318" class="code" textLength="302.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">buscando</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Prácticas FCT&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+  <rect x="84" y="298" width="322.4" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;388.4;388.4;84.0" keyTimes="0.0000;0.5361;0.5899;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  <text x="62" y="347" class="num" text-anchor="end">10</text>
+  <text x="84" y="347" class="code" textLength="21.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#c9d1d9">};</tspan></text>
+  <rect x="84" y="327" width="41.6" height="27" fill="#0d1117">
+    <animate attributeName="x" values="84.0;84.0;107.6;107.6;84.0" keyTimes="0.0000;0.6009;0.6047;0.9995;1.0000" dur="18.21s" repeatCount="indefinite"/>
+  </rect>
+  </g>
+  <g class="blink"><rect x="84" y="71" width="10" height="20" fill="#3fb950" opacity=".85">
+    <animate attributeName="x" values="84.0;84.0;235.2;84.0;267.6;84.0;408.0;84.0;418.8;84.0;321.6;84.0;483.6;84.0;591.6;84.0;310.8;84.0;386.4;84.0;105.6;105.6" keyTimes="0.0000;0.0274;0.0544;0.0653;0.0980;0.1090;0.1666;0.1776;0.2372;0.2481;0.2904;0.3014;0.3725;0.3835;0.4738;0.4848;0.5251;0.5361;0.5899;0.6009;0.6047;1.0000" dur="18.21s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="71.0;71.0;71.0;100.0;100.0;129.0;129.0;158.0;158.0;187.0;187.0;216.0;216.0;245.0;245.0;274.0;274.0;303.0;303.0;332.0;332.0;332.0" keyTimes="0.0000;0.0274;0.0544;0.0653;0.0980;0.1090;0.1666;0.1776;0.2372;0.2481;0.2904;0.3014;0.3725;0.3835;0.4738;0.4848;0.5251;0.5361;0.5899;0.6009;0.6047;1.0000" dur="18.21s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect></g>
+</svg>

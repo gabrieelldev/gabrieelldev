@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="300" viewBox="0 0 410 300" role="img" aria-label="Agendado: plataforma web de reserva de citas para pequeños negocios.">
+  <style>
+    .t { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .d { font: 400 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .p { font: 700 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .dn { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .ok { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #3fb950; }
+    .slot { animation: slot 6s ease-in-out infinite; }
+    .cursor { animation: cur 6s ease-in-out infinite; }
+    .toast { opacity: 0; animation: toast 6s ease-in-out infinite; }
+    @keyframes slot { 0%, 30% { fill: transparent; stroke: #30363d; } 38%, 85% { fill: #3fb950; stroke: #3fb950; } 95%, 100% { fill: transparent; stroke: #30363d; } }
+    @keyframes cur { 0% { transform: translate(80px, 70px); opacity: 0; } 10% { opacity: 1; } 30% { transform: translate(0, 0); } 34% { transform: translate(0, 0) scale(.85); } 38%, 80% { transform: translate(0, 0); opacity: 1; } 90%, 100% { transform: translate(0, 0); opacity: 0; } }
+    @keyframes toast { 0%, 40% { opacity: 0; transform: translateY(6px); } 46%, 85% { opacity: 1; transform: none; } 95%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .toast { opacity: 1; } .slot { fill: #3fb950; } }
+  </style>
+  <rect x=".5" y=".5" width="409" height="299" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="52" class="t">Agendado</text>
+  <text x="24" y="76" class="d">Reservas de citas online</text>
+  <text x="24" y="96" class="d">para pequeños negocios</text>
+  <rect x="24" y="118" width="98" height="24" rx="12" fill="#58a6ff" fill-opacity=".12" stroke="#58a6ff" stroke-opacity=".7"/>
+  <circle cx="38" cy="130" r="5" fill="none" stroke="#58a6ff" stroke-width="1.6"/>
+  <line x1="33" y1="130" x2="43" y2="130" stroke="#58a6ff" stroke-width="1.2"/>
+  <text x="49" y="134" class="p" fill="#58a6ff">APP WEB</text>
+  <text x="24" y="168" class="d" style="font-size:13px">Peluquerías, barberías</text>
+  <text x="24" y="186" class="d" style="font-size:13px">y estudios de tatuaje</text>
+  <text x="24" y="262" class="d" style="font-size:12px; fill:#484f58">Next.js · PostgreSQL · Stripe</text>
+  <rect x="230" y="50" width="166" height="234" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="244" y="72" class="dn" style="fill:#c9d1d9">Semana 46</text>
+  <text x="257.0" y="86" class="dn" text-anchor="middle">L</text>
+  <rect x="244" y="96" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="244" y="126" width="26" height="26" rx="5" fill="#21262d"/>
+  <rect x="244" y="156" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="244" y="186" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="244" y="216" width="26" height="26" rx="5" fill="#21262d"/>
+  <text x="287.0" y="86" class="dn" text-anchor="middle">M</text>
+  <rect x="274" y="96" width="26" height="26" rx="5" fill="#21262d"/>
+  <rect x="274" y="126" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="274" y="156" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="274" y="186" width="26" height="26" rx="5" fill="#21262d"/>
+  <rect x="274" y="216" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <text x="317.0" y="86" class="dn" text-anchor="middle">X</text>
+  <rect x="304" y="96" width="26" height="26" rx="5" fill="#21262d"/>
+  <rect x="304" y="126" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="304" y="156" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="304" y="186" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="304" y="216" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <text x="347.0" y="86" class="dn" text-anchor="middle">J</text>
+  <rect x="334" y="96" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="334" y="126" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="334" y="156" width="26" height="26" rx="5" fill="#21262d"/>
+  <rect x="334" y="186" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="334" y="216" width="26" height="26" rx="5" fill="#21262d"/>
+  <text x="377.0" y="86" class="dn" text-anchor="middle">V</text>
+  <rect x="364" y="96" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="364" y="126" width="26" height="26" rx="5" fill="#21262d"/>
+  <rect x="364" y="156" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="364" y="186" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect x="364" y="216" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
+  <rect class="slot" x="304" y="156" width="26" height="26" rx="5" stroke-width="1"/>
+  <g class="toast">
+    <rect x="244" y="252" width="138" height="22" rx="11" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".6"/>
+    <path d="M254 263 l4 4 l7 -8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="271" y="267" class="ok">Cita reservada</text>
+  </g>
+  <g transform="translate(322 172)"><g class="cursor">
+    <path d="M0 0 L0 15 L4 11 L7 18 L10 17 L7 10 L12 10 Z" fill="#f0f6fc" stroke="#0d1117" stroke-width="1"/>
+  </g></g>
+</svg>

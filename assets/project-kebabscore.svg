@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="300" viewBox="0 0 410 300" role="img" aria-label="KebabScore Málaga: aplicación solo para móvil de reseñas de kebabs con nota de 0 a 10. Android e iOS.">
+  <style>
+    .t { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .d { font: 400 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .p { font: 700 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .neon { font: 400 17px Impact, "Anton", "Arial Narrow", sans-serif; fill: #FF7A1F; letter-spacing: 1.5px; animation: flick 4s infinite; }
+    .rn { font: 600 9px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e8ddd3; }
+    .rs { font: 700 11px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #FF7A1F; }
+    .row { opacity: 0; animation: in .5s ease-out forwards; }
+    .bar { transform-box: fill-box; transform: scaleX(0); animation: grow 1s ease-out forwards; }
+    .phone { animation: float 5s ease-in-out infinite; }
+    @keyframes flick { 0%, 18%, 22%, 25%, 53%, 57%, 100% { opacity: 1; filter: drop-shadow(0 0 5px #FF7A1F); } 20%, 24%, 55% { opacity: .25; filter: none; } }
+    @keyframes in { from { opacity: 0; transform: translateX(10px); } to { opacity: 1; transform: none; } }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @keyframes float { 50% { transform: translateY(-5px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .row { opacity: 1; } .bar { transform: none; } }
+  </style>
+  <defs><linearGradient id="kb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1410"/><stop offset="1" stop-color="#120F0D"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="409" height="299" rx="14" fill="url(#kb)" stroke="#3a2a1e"/>
+  <text x="24" y="52" class="t">KebabScore</text>
+  <text x="24" y="76" class="d">Reseñas de kebabs de Málaga</text>
+  <text x="24" y="96" class="d">con nota propia de 0 a 10</text>
+  <rect x="24" y="118" width="128" height="24" rx="12" fill="#FF7A1F" fill-opacity=".14" stroke="#FF7A1F" stroke-opacity=".7"/>
+  <rect x="35" y="123" width="8" height="14" rx="2" fill="none" stroke="#FF7A1F" stroke-width="1.6"/>
+  <text x="50" y="134" class="p" fill="#FF7A1F">SOLO APP MÓVIL</text>
+  <text x="24" y="168" class="d" style="font-size:13px">Android · iOS</text>
+  <text x="24" y="262" class="d" style="font-size:12px; fill:#484f58">Next.js · Supabase · Capacitor</text>
+  <g class="phone">
+    <rect x="250" y="34" width="136" height="252" rx="22" fill="#0a0807" stroke="#4a3a2e" stroke-width="2"/>
+    <rect x="300" y="42" width="36" height="8" rx="4" fill="#1f1914"/>
+    <text x="318" y="92" class="neon" text-anchor="middle">KEBABSCORE</text>
+    <text x="318" y="112" class="rn" text-anchor="middle" style="fill:#9c8b7e">El kebab de las 3 AM</text>
+    <text x="262" y="138" class="rn" style="fill:#FF7A1F">CARTA LUMINOSA</text>
+    <g class="row" style="animation-delay:0.60s">
+      <rect x="262" y="150" width="112" height="30" rx="6" fill="#1f1914"/>
+      <text x="270" y="163" class="rn">1. Dürüm mixto</text>
+      <rect x="270" y="169" width="72" height="4" rx="2" fill="#2e2620"/>
+      <rect class="bar" style="animation-delay:0.90s" x="270" y="169" width="67.7" height="4" rx="2" fill="#FF7A1F"/>
+      <text x="366" y="172" class="rs" text-anchor="end">9,4</text>
+    </g>
+    <g class="row" style="animation-delay:0.85s">
+      <rect x="262" y="186" width="112" height="30" rx="6" fill="#1f1914"/>
+      <text x="270" y="199" class="rn">2. Kebab de pollo</text>
+      <rect x="270" y="205" width="72" height="4" rx="2" fill="#2e2620"/>
+      <rect class="bar" style="animation-delay:1.15s" x="270" y="205" width="64.1" height="4" rx="2" fill="#FF7A1F"/>
+      <text x="366" y="208" class="rs" text-anchor="end">8,9</text>
+    </g>
+    <g class="row" style="animation-delay:1.10s">
+      <rect x="262" y="222" width="112" height="30" rx="6" fill="#1f1914"/>
+      <text x="270" y="235" class="rn">3. Falafel casero</text>
+      <rect x="270" y="241" width="72" height="4" rx="2" fill="#2e2620"/>
+      <rect class="bar" style="animation-delay:1.40s" x="270" y="241" width="59.0" height="4" rx="2" fill="#FF7A1F"/>
+      <text x="366" y="244" class="rs" text-anchor="end">8,2</text>
+    </g>
+  </g>
+</svg>
