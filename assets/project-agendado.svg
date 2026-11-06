@@ -1,66 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="410" height="300" viewBox="0 0 410 300" role="img" aria-label="Agendado: plataforma web de reserva de citas para pequeños negocios.">
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="300" viewBox="0 0 410 300" role="img" aria-label="Agendado: plataforma web de reserva de citas para pequeños negocios. Tu agenda, siempre abierta.">
   <style>
-    .t { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; }
-    .d { font: 400 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
-    .p { font: 700 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
-    .dn { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
-    .ok { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #3fb950; }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    .serif { font-family: Source Serif 4, "Source Serif Pro", Georgia, "Times New Roman", serif; fill: #17191c; }
+    .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .tag { font: 400 12px Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #979799; }
+    .m { font: 400 13px Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #777b86; }
+    .sl { font: 400 12px Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .b { font: 500 12.5px Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #17191c; }
   </style>
-  <rect x=".5" y=".5" width="409" height="299" rx="14" fill="#0d1117" stroke="#30363d"/>
-  <text x="24" y="52" class="t">Agendado</text>
-  <text x="24" y="76" class="d">Reservas de citas online</text>
-  <text x="24" y="96" class="d">para pequeños negocios</text>
-  <rect x="24" y="118" width="98" height="24" rx="12" fill="#58a6ff" fill-opacity=".12" stroke="#58a6ff" stroke-opacity=".7"/>
-  <circle cx="38" cy="130" r="5" fill="none" stroke="#58a6ff" stroke-width="1.6"/>
-  <line x1="33" y1="130" x2="43" y2="130" stroke="#58a6ff" stroke-width="1.2"/>
-  <text x="49" y="134" class="p" fill="#58a6ff">APP WEB</text>
-  <text x="24" y="168" class="d" style="font-size:13px">Peluquerías, barberías</text>
-  <text x="24" y="186" class="d" style="font-size:13px">y estudios de tatuaje</text>
-  <text x="24" y="262" class="d" style="font-size:12px; fill:#484f58">Next.js · PostgreSQL · Stripe</text>
-  <rect x="230" y="50" width="166" height="234" rx="12" fill="#161b22" stroke="#30363d"/>
-  <text x="244" y="72" class="dn" style="fill:#c9d1d9">Semana 46</text>
-  <text x="257.0" y="86" class="dn" text-anchor="middle">L</text>
-  <rect x="244" y="96" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="244" y="126" width="26" height="26" rx="5" fill="#21262d"/>
-  <rect x="244" y="156" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="244" y="186" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="244" y="216" width="26" height="26" rx="5" fill="#21262d"/>
-  <text x="287.0" y="86" class="dn" text-anchor="middle">M</text>
-  <rect x="274" y="96" width="26" height="26" rx="5" fill="#21262d"/>
-  <rect x="274" y="126" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="274" y="156" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="274" y="186" width="26" height="26" rx="5" fill="#21262d"/>
-  <rect x="274" y="216" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <text x="317.0" y="86" class="dn" text-anchor="middle">X</text>
-  <rect x="304" y="96" width="26" height="26" rx="5" fill="#21262d"/>
-  <rect x="304" y="126" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="304" y="156" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="304" y="186" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="304" y="216" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <text x="347.0" y="86" class="dn" text-anchor="middle">J</text>
-  <rect x="334" y="96" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="334" y="126" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="334" y="156" width="26" height="26" rx="5" fill="#21262d"/>
-  <rect x="334" y="186" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="334" y="216" width="26" height="26" rx="5" fill="#21262d"/>
-  <text x="377.0" y="86" class="dn" text-anchor="middle">V</text>
-  <rect x="364" y="96" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="364" y="126" width="26" height="26" rx="5" fill="#21262d"/>
-  <rect x="364" y="156" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="364" y="186" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="364" y="216" width="26" height="26" rx="5" fill="none" stroke="#30363d"/>
-  <rect x="304" y="156" width="26" height="26" rx="5" fill="#3fb950" fill-opacity="0" stroke="#30363d">
-    <animate attributeName="fill-opacity" values="0;0;1;1;0;0" keyTimes="0;.30;.38;.85;.95;1" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="stroke" values="#30363d;#30363d;#3fb950;#3fb950;#30363d;#30363d" keyTimes="0;.30;.38;.85;.95;1" dur="6s" repeatCount="indefinite"/>
-  </rect>
-  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.40;.46;.85;.95;1" dur="6s" repeatCount="indefinite"/>
-    <rect x="244" y="252" width="138" height="22" rx="11" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".6"/>
-    <path d="M254 263 l4 4 l7 -8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="271" y="267" class="ok">Cita reservada</text>
+  <defs>
+    <filter id="sh" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="10" stdDeviation="9" flood-color="#000" flood-opacity=".09"/>
+      <feDropShadow dx="0" dy="0" stdDeviation=".6" flood-color="#04172b" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect x=".5" y=".5" width="409" height="299" rx="24" fill="#ffffff" stroke="#ececec"/>
+  <path d="M200 1 H385.5 a23.5 23.5 0 0 1 23.5 23.5 V275.5 a23.5 23.5 0 0 1 -23.5 23.5 H200 Z" fill="#fafafb"/>
+
+  <text x="24" y="44" class="tag">Proyecto · Reservas online</text>
+  <text x="24" y="86" class="serif" style="font-size:34px; letter-spacing:-0.6px">Agendado</text>
+  <text x="24" y="116" class="serif" style="font-size:19px">Tu agenda,</text>
+  <text x="24" y="140" class="serif" style="font-size:19px; font-style:italic">siempre abierta.</text>
+  <text x="24" y="172" class="m">Citas online para pequeños</text>
+  <text x="24" y="190" class="m">negocios: peluquerías,</text>
+  <text x="24" y="208" class="m">barberías y tatuajes.</text>
+  <rect x="24" y="226" width="78" height="26" rx="13" fill="#17191c"/>
+  <text x="63" y="243" class="sans" text-anchor="middle" style="font-size:12px; fill:#ffffff">App web</text>
+  <rect x="108" y="226" width="78" height="26" rx="13" fill="#fbe1d1"/>
+  <text x="147" y="243" class="sans" text-anchor="middle" style="font-size:12px; fill:#5d2a1a">Con Stripe</text>
+  <text x="24" y="276" class="tag" style="font-size:11px">Next.js · PostgreSQL · Prisma</text>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    <g transform="rotate(2 316 110)">
+      <rect x="224" y="40" width="180" height="134" rx="20" fill="#ffffff" filter="url(#sh)"/>
+      <text x="238" y="62" class="tag">Elige hora</text>
+      <text x="238" y="80" class="b">Jueves 30 de octubre</text>
+            <rect x="238" y="92" width="46" height="24" rx="12" fill="#ffffff" stroke="#ececec"/><text x="261.0" y="108" class="sl" text-anchor="middle" fill="#17191c">10:00</text>
+      <text x="313.0" y="108" class="sl" text-anchor="middle" fill="#a3a6af">10:15</text><line x1="298.0" y1="104" x2="328.0" y2="104" stroke="#a3a6af" stroke-width="1"/>
+      <rect x="342" y="92" width="46" height="24" rx="12" fill="#ffffff" stroke="#ececec"/><text x="365.0" y="108" class="sl" text-anchor="middle" fill="#17191c">10:30</text>
+      <rect x="238" y="122" width="46" height="24" rx="12" fill="#17191c" fill-opacity="0" stroke="#ececec">
+        <animate attributeName="fill-opacity" values="0;0;1;1;0;0" keyTimes="0;.25;.29;.88;.92;1" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="stroke" values="#ececec;#ececec;#17191c;#17191c;#ececec;#ececec" keyTimes="0;.25;.29;.88;.92;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="261.0" y="138" class="sl" text-anchor="middle" fill="#17191c">10:45<animate attributeName="fill" values="#17191c;#17191c;#ffffff;#ffffff;#17191c;#17191c" keyTimes="0;.25;.29;.88;.92;1" dur="6s" repeatCount="indefinite"/></text>
+      <text x="313.0" y="138" class="sl" text-anchor="middle" fill="#a3a6af">11:00</text><line x1="298.0" y1="134" x2="328.0" y2="134" stroke="#a3a6af" stroke-width="1"/>
+      <rect x="342" y="122" width="46" height="24" rx="12" fill="#ffffff" stroke="#ececec"/><text x="365.0" y="138" class="sl" text-anchor="middle" fill="#17191c">11:15</text>
+    </g>
   </g>
-  <g transform="translate(322 172)"><g opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.10;.80;.90;1" dur="6s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="80 70;0 0;0 0" keyTimes="0;.30;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".3 0 .2 1;0 0 1 1"/>
-    <path d="M0 0 L0 15 L4 11 L7 18 L10 17 L7 10 L12 10 Z" fill="#f0f6fc" stroke="#0d1117" stroke-width="1"/>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 -4;0 2;0 -4" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    <g transform="rotate(-3 300 236)">
+      <rect x="214" y="190" width="170" height="92" rx="20" fill="#ffffff" filter="url(#sh)"/>
+      <text x="228" y="212" class="tag">Próxima cita</text>
+      <circle cx="244" cy="234" r="14" fill="#f2f2f3"/>
+      <text x="244" y="238.5" class="sans" text-anchor="middle" style="font-size:11px; font-weight:500; fill:#17191c">AN</text>
+      <text x="266" y="231" class="b">Corte de pelo</text>
+      <text x="266" y="246" class="tag" style="fill:#777b86">con Ana · 30 min</text>
+      <text x="228" y="273" class="serif" style="font-size:20px">10:45</text>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.36;.42;.88;.92;1" dur="6s" repeatCount="indefinite"/>
+        <rect x="294" y="258" width="78" height="22" rx="11" fill="#17191c"/>
+        <text x="333" y="273" class="sans" text-anchor="middle" style="font-size:11.5px; fill:#ffffff">Confirmada</text>
+      </g>
+      <g>
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;.36;.42;.88;.92;1" dur="6s" repeatCount="indefinite"/>
+        <rect x="294" y="258" width="78" height="22" rx="11" fill="#ffffff" stroke="#ececec"/>
+        <text x="333" y="273" class="sans" text-anchor="middle" style="font-size:11.5px; fill:#979799">Pendiente</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="rotate(2 316 110)"><g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.08;.30;.36;1" dur="6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="298 192;268 136;268 136" keyTimes="0;.24;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".3 0 .2 1;0 0 1 1"/>
+    <path d="M0 0 L0 15 L4 11 L7 18 L10 17 L7 10 L12 10 Z" fill="#17191c" stroke="#ffffff" stroke-width="1.2" stroke-linejoin="round"/>
   </g></g>
 </svg>

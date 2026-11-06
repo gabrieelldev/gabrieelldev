@@ -33,7 +33,7 @@ Busco **prácticas (FCT)** como desarrollador en Málaga o en remoto.
 ## Proyectos
 
 <p align="center">
-  <a href="https://github.com/gabrieelldev/kebabscore"><img src="assets/project-kebabscore.svg" alt="KebabScore Málaga: aplicación solo para móvil de reseñas de kebabs" width="49%" /></a>
+  <a href="https://kebabscore.vercel.app"><img src="assets/project-kebabscore.svg" alt="KebabScore Málaga: aplicación solo para móvil de reseñas de kebabs" width="49%" /></a>
   <a href="https://agendado-kappa.vercel.app"><img src="assets/project-agendado.svg" alt="Agendado: plataforma web de reserva de citas para pequeños negocios" width="49%" /></a>
 </p>
 
