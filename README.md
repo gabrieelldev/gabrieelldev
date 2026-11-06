@@ -86,14 +86,6 @@ He desarrollado ambos proyectos con la ayuda de Claude. Mi trabajo ha consistido
   <img src="https://streak-stats.demolab.com?user=gabrieelldev&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&locale=es" alt="Racha de contribuciones" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrieelldev/gabrieelldev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrieelldev/gabrieelldev/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/gabrieelldev/gabrieelldev/output/github-snake-dark.svg" alt="Serpiente comiéndose el gráfico de contribuciones" width="100%" />
-  </picture>
-</p>
-
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Música
