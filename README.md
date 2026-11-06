@@ -33,7 +33,7 @@ Competencias adquiridas hasta ahora en el ciclo:
 - Diseño de bases de datos relacionales y consultas SQL.
 - Instalación y configuración de sistemas operativos y máquinas virtuales.
 
-## Experiencia
+## Experiencia Laboral
 
 **Mosaic Factory** · Mozo de almacén · 2026 (2 meses)
 
