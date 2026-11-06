@@ -78,8 +78,8 @@ He desarrollado ambos proyectos con la ayuda de Claude. Mi trabajo ha consistido
 ## Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieelldev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&locale=es" height="165" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelldev&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&locale=es" height="165" alt="Lenguajes más usados" />
+  <img src="assets/stats/stats.svg" height="165" alt="Estadísticas de GitHub" />
+  <img src="assets/stats/top-langs.svg" height="165" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
