@@ -6,6 +6,13 @@ Estudiante de primer curso del Ciclo Formativo de Grado Superior en **Desarrollo
 
 Busco **prácticas (FCT)** como desarrollador en Málaga o en remoto.
 
+### Ahora mismo
+
+- 📚 Cursando 1.º de DAW: Programación, Bases de Datos, Sistemas Informáticos y Entornos de Desarrollo.
+- 📱 Mejorando **KebabScore Málaga**, mi app móvil de reseñas de kebabs, en fase beta.
+- 🎮 Desarrollando un roguelike para Roblox mientras aprendo **Lua**.
+- 💼 Buscando empresa para las prácticas.
+
 <p>
   <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=ED8B00" alt="Java" /> <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&labelColor=0d1117&logo=html5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&labelColor=0d1117&logo=mysql&logoColor=4479A1" alt="SQL" /> <img src="https://img.shields.io/badge/Lua-aprendiendo-238636?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white" alt="Lua" />
 </p>
@@ -65,6 +72,27 @@ He desarrollado ambos proyectos con la ayuda de Claude. Mi trabajo ha consistido
 
 - Linux y configuración de servidores de Discord, de forma autodidacta.
 - Idiomas: español (nativo) e inglés (avanzado).
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+## Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieelldev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&locale=es" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelldev&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&locale=es" height="165" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrieelldev&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&locale=es" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrieelldev/gabrieelldev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrieelldev/gabrieelldev/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/gabrieelldev/gabrieelldev/output/github-snake-dark.svg" alt="Serpiente comiéndose el gráfico de contribuciones" width="100%" />
+  </picture>
+</p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
