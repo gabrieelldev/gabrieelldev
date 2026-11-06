@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estad&#237;sticas de GitHub de Gabriel Aguilar Leal, Rank: C</title>
-        <desc id="descId">Estrellas totales: 0, Commits totales  : 35, PRs totales: 0, Issues totales: 0, Contribuciones en (el a&#241;o pasado): 0</desc>
+        <desc id="descId">Estrellas totales: 1, Commits totales  : 121, PRs totales: 0, Issues totales: 0, Contribuciones en (el a&#241;o pasado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 250.3234330303182;
+        stroke-dashoffset: 246.3148696752225;
       }
     }
   
@@ -169,7 +169,7 @@
         x="274.01"
         y="12.5"
         data-testid="stars"
-      >0</text>
+      >1</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -184,7 +184,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >35</text>
+      >121</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
