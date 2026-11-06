@@ -37,9 +37,13 @@ Competencias adquiridas hasta ahora en el ciclo:
 
 ## Proyectos
 
-### [Mis tests de estudio](https://claude.ai/artifact/Uuz8SHFxgoL6TdPPrL6yZh)
+### [KebabScore Málaga](https://github.com/gabrieelldev/kebabscore)
 
-Aplicación web que genera tests de tipo examen a partir de apuntes en PDF, Word o imagen, organizados por asignatura y tema. Registra los aciertos y fallos de cada intento y muestra estadísticas por tema para identificar qué contenidos necesitan repaso. La utilizo para preparar los módulos del ciclo, como Sistemas Informáticos, Bases de Datos o Entornos de Desarrollo.
+Aplicación **exclusivamente para móvil** en la que la comunidad valora los kebabs y dürüms de Málaga. Cada reseña puntúa seis aspectos (carne, salsas, pan, relación tamaño/precio, frescura y horario nocturno) y un algoritmo propio los combina en una nota de 0 a 10. El ranking usa una media bayesiana para que un local con una sola reseña perfecta no supere a otro con cientos de valoraciones altas. Incluye mapa interactivo de locales, filtros por barrio y por apertura nocturna, misiones y pegatinas para los usuarios, tarjetas para compartir en Stories y un panel privado de administración. Se distribuye como app nativa para Android e iOS mediante Capacitor.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&labelColor=0d1117&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&labelColor=0d1117&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&labelColor=0d1117&logo=supabase&logoColor=3FCF8E" alt="Supabase" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&labelColor=0d1117&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Leaflet-0d1117?style=flat-square&labelColor=0d1117&logo=leaflet&logoColor=199900" alt="Leaflet" /> <img src="https://img.shields.io/badge/Capacitor-0d1117?style=flat-square&labelColor=0d1117&logo=capacitor&logoColor=119EFF" alt="Capacitor" />
+</p>
 
 <sub>Desarrollada con ayuda de IA</sub>
 
