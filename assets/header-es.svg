@@ -1,48 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="Gabriel Aguilar Leal. Estudiante de DAW en Málaga, futuro especialista en IA y ciberseguridad, buscando prácticas FCT">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="290" viewBox="0 0 840 290" role="img" aria-label="Gabriel Aguilar Leal. Estudiante de DAW en Málaga, futuro especialista en IA y ciberseguridad, buscando prácticas FCT">
   <style>
     .name { font: 700 50px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; letter-spacing: -0.5px; }
     .prompt { font: 600 24px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #3fb950; }
     .sub { font: 500 24px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #c9d1d9; }
     .status { font: 500 17px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
     .blink { animation: blink 1s steps(1) infinite; }
-    .ring { fill: none; stroke: #3fb950; stroke-width: 2; transform-origin: 58px 188px; animation: ping 1.8s ease-out infinite; }
-    .glow { animation: glow 6s ease-in-out infinite; }
+    .ring { fill: none; stroke: #3fb950; stroke-width: 2; transform-origin: 58px 250px; animation: ping 1.8s ease-out infinite; }
     @keyframes blink { 50% { opacity: 0; } }
     @keyframes ping { from { transform: scale(.6); opacity: .9; } to { transform: scale(2.2); opacity: 0; } }
-    @keyframes glow { 50% { opacity: .45; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
   <defs>
-    <radialGradient id="g" gradientUnits="userSpaceOnUse" cx="760" cy="-30" r="230">
+    <radialGradient id="g" gradientUnits="userSpaceOnUse" cx="760" cy="-30" r="260">
       <stop offset="0" stop-color="#3fb950" stop-opacity="0.24">
         <animate attributeName="stop-opacity" values=".24;.1;.24" dur="6s" repeatCount="indefinite"/>
       </stop>
       <stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
     </radialGradient>
-    <clipPath id="frame"><rect width="840" height="230" rx="14"/></clipPath>
+    <clipPath id="frame"><rect width="840" height="290" rx="14"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="840" height="230" rx="14" fill="#0d1117"/>
-    <rect width="840" height="230" fill="url(#g)"/>
+    <rect width="840" height="290" rx="14" fill="#0d1117"/>
+    <rect width="840" height="290" fill="url(#g)"/>
   </g>
-  <text x="48" y="84" class="name">Gabriel Aguilar Leal</text>
-  <text x="20" y="138" class="prompt">&gt;</text>
-  <clipPath id="c0"><rect x="50" y="112" width="0" height="36">
-    <animate attributeName="width" values="0.0;0.0;388.8;388.8;0.0;0.0" keyTimes="0.0000;0.0179;0.1308;0.2622;0.3025;1.0000" dur="16.75s" repeatCount="indefinite"/>
+  <text x="48" y="80" class="name">Gabriel Aguilar Leal</text>
+  <text x="20" y="132" class="prompt">&gt;</text>
+  <clipPath id="c0"><rect x="50" y="106" width="388.8" height="36">
+    <animate attributeName="width" values="0;0;388.8;388.8;0;0" keyTimes="0;0.0308;0.1606;0.9077;0.9385;1" dur="13.0s" repeatCount="indefinite"/>
   </rect></clipPath>
-  <text x="50" y="138" class="sub" textLength="388.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">Estudiante de DAW en Málaga</text>
-  <clipPath id="c1"><rect x="50" y="112" width="0" height="36">
-    <animate attributeName="width" values="0.0;0.0;604.8;604.8;0.0;0.0" keyTimes="0.0000;0.3264;0.5019;0.6333;0.6960;1.0000" dur="16.75s" repeatCount="indefinite"/>
+  <text x="50" y="132" class="sub" textLength="388.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">Estudiante de DAW en Málaga</text>
+  <text x="20" y="170" class="prompt">&gt;</text>
+  <clipPath id="c1"><rect x="50" y="144" width="604.8" height="36">
+    <animate attributeName="width" values="0;0;604.8;604.8;0;0" keyTimes="0;0.1952;0.3971;0.9077;0.9385;1" dur="13.0s" repeatCount="indefinite"/>
   </rect></clipPath>
-  <text x="50" y="138" class="sub" textLength="604.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">Futuro especialista en IA y ciberseguridad</text>
-  <clipPath id="c2"><rect x="50" y="112" width="0" height="36">
-    <animate attributeName="width" values="0.0;0.0;316.8;316.8;0.0;0.0" keyTimes="0.0000;0.7199;0.8119;0.9433;0.9761;1.0000" dur="16.75s" repeatCount="indefinite"/>
+  <text x="50" y="170" class="sub" textLength="604.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">Futuro especialista en IA y ciberseguridad</text>
+  <text x="20" y="208" class="prompt">&gt;</text>
+  <clipPath id="c2"><rect x="50" y="182" width="316.8" height="36">
+    <animate attributeName="width" values="0;0;316.8;316.8;0;0" keyTimes="0;0.4317;0.5375;0.9077;0.9385;1" dur="13.0s" repeatCount="indefinite"/>
   </rect></clipPath>
-  <text x="50" y="138" class="sub" textLength="316.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">Buscando prácticas FCT</text>
-  <g class="blink"><rect x="50" y="117" width="3" height="27" fill="#3fb950">
-    <animate attributeName="x" values="50.0;50.0;438.8;438.8;50.0;50.0;654.8;654.8;50.0;50.0;366.8;366.8;50.0;50.0" keyTimes="0.0000;0.0179;0.1308;0.2622;0.3025;0.3264;0.5019;0.6333;0.6960;0.7199;0.8119;0.9433;0.9761;1.0000" dur="16.75s" repeatCount="indefinite"/>
+  <text x="50" y="208" class="sub" textLength="316.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">Buscando prácticas FCT</text>
+  <g class="blink"><rect x="366.8" y="187" width="3" height="27" fill="#3fb950">
+    <animate attributeName="x" values="50.0;50.0;438.8;438.8;50.0;654.8;654.8;50.0;366.8;366.8;50.0;50.0" keyTimes="0.0000;0.0308;0.1606;0.1944;0.1952;0.3971;0.4310;0.4317;0.5375;0.9077;0.9385;1.0000" dur="13.0s" repeatCount="indefinite"/>
+    <animate attributeName="y" calcMode="discrete" values="111;149;187;111" keyTimes="0;0.1952;0.4317;0.9385" dur="13.0s" repeatCount="indefinite"/>
   </rect></g>
-  <circle class="ring" cx="58" cy="188" r="7"/>
-  <circle cx="58" cy="188" r="6" fill="#3fb950"/>
-  <text x="76" y="194" class="status">Disponible para prácticas · Málaga o remoto</text>
+  <circle class="ring" cx="58" cy="250" r="7"/>
+  <circle cx="58" cy="250" r="6" fill="#3fb950"/>
+  <text x="76" y="256" class="status">Disponible para prácticas · Málaga o remoto</text>
 </svg>
